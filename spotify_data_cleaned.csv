@@ -1,0 +1,1001 @@
+User_Id,Age,Gender,City,Account_age_Months,Subscription_Type,Payment_Method,Monthly_Subscription_Fee,Plan_Duration,Auto_Renewal,Daily_Listening_Minutes,Songs_Playes_Per_Day,Weekly_Apps_Opens,Playlists_Created,Podcasts_Listened,Skip_Rate,Offline_Downloads,Last_Login_Days_Ago,Device_Type,App_Rating,Customer_Support_Tickets,Ads_Clicked,Recommendation_Usage,Lifetime_Revenue,Avg_Monthly_Spend,Churn
+1,48,Female,Mumbai,30,Active,UPI,4,Quarterly,Yes,100,34,6,10,4,60,30,17,Desktop,1,5,9,Yes,477,1,No
+2,21,Female,Hyderabad,28,Cancelled,UPI,11,Yearly,No,49,31,1,16,3,16,1,26,Mobile,2,3,6,No,7,7,No
+3,35,Male,Mumbai,16,Active,Credit/Debit Card,5,Monthly,No,229,34,5,17,8,38,38,8,Mobile,2,4,0,No,138,13,No
+4,52,Female,Bangalore,31,Cancelled,UPI,1,Yearly,Yes,239,11,3,19,5,18,19,10,Mobile,3,5,10,No,372,12,No
+5,44,Male,Bangalore,3,Cancelled,Credit/Debit Card,10,Monthly,Yes,33,66,1,8,2,45,42,8,Desktop,5,5,8,No,116,13,Yes
+6,42,Female,Bangalore,13,Active,Net Banking,4,Yearly,Yes,77,65,10,14,10,5,31,7,Mobile,1,4,15,No,90,8,Yes
+7,23,Male,Bangalore,9,Active,UPI,0,Monthly,No,119,21,26,20,3,23,41,22,Mobile,4,2,0,Yes,12,13,Yes
+8,57,Male,Bangalore,56,Active,Credit/Debit Card,6,Yearly,No,108,52,26,4,4,24,11,18,Mobile,5,4,1,No,447,11,No
+9,46,Female,Ahmedabad,44,Cancelled,UPI,6,Quarterly,Yes,82,20,7,1,6,42,12,7,Mobile,2,1,14,No,112,10,Yes
+10,34,Female,Hyderabad,34,Cancelled,UPI,10,Yearly,Yes,69,15,36,18,6,56,32,6,Tablet,2,2,0,Yes,278,12,Yes
+11,40,Female,Pune,28,Active,UPI,2,Quarterly,Yes,233,24,36,2,7,20,22,23,Mobile,2,3,7,No,268,5,Yes
+12,21,Female,Ahmedabad,13,Active,UPI,4,Monthly,Yes,7,19,16,7,7,28,39,6,Mobile,3,3,13,No,6,1,Yes
+13,50,Male,Chennai,26,Active,UPI,4,Monthly,No,105,24,2,2,5,13,37,17,Desktop,2,1,6,Yes,393,10,Yes
+14,20,Male,Mumbai,23,Active,Credit/Debit Card,13,Yearly,No,129,36,32,15,9,21,9,6,Mobile,5,2,2,No,356,1,Yes
+15,49,Female,Mumbai,40,Active,UPI,11,Yearly,No,284,54,37,5,5,55,35,23,Mobile,1,2,2,Yes,190,10,No
+16,22,Male,Bangalore,45,Active,Credit/Debit Card,4,Quarterly,Yes,248,28,4,13,7,35,23,25,Mobile,3,2,5,Yes,372,4,Yes
+17,50,Female,Ahmedabad,53,Cancelled,Credit/Debit Card,8,Monthly,No,171,16,37,11,5,55,18,1,Mobile,3,3,11,No,96,9,No
+18,39,Female,Pune,10,Active,UPI,15,Monthly,No,253,21,34,4,6,55,49,1,Mobile,5,0,2,No,259,15,Yes
+19,50,Female,Hyderabad,12,Active,Credit/Debit Card,12,Monthly,Yes,194,34,17,15,5,11,24,21,Mobile,2,4,7,No,129,5,No
+20,29,Female,Pune,13,Active,Net Banking,3,Yearly,No,178,27,19,18,0,7,10,24,Mobile,2,0,14,Yes,197,3,No
+21,53,Female,Mumbai,12,Active,UPI,9,Quarterly,Yes,50,46,19,7,4,50,16,7,Desktop,4,1,0,No,397,7,Yes
+22,48,Female,Bangalore,41,Cancelled,Net Banking,13,Quarterly,No,215,15,10,9,9,34,43,5,Desktop,1,2,13,No,446,10,Yes
+23,32,Male,Ahmedabad,50,Cancelled,UPI,2,Quarterly,No,226,78,33,5,7,16,24,18,Mobile,3,2,5,No,242,9,No
+24,24,Female,Hyderabad,4,Cancelled,UPI,11,Monthly,Yes,149,56,31,13,2,36,40,26,Mobile,5,3,3,Yes,200,8,No
+25,28,Male,Hyderabad,59,Active,UPI,8,Quarterly,Yes,42,37,24,1,4,33,34,19,Mobile,1,1,0,No,454,15,No
+26,52,Female,Kolkata,59,Active,Net Banking,10,Monthly,No,253,11,39,1,6,28,25,6,Mobile,3,4,6,No,25,12,Yes
+27,25,Female,Ahmedabad,21,Active,Net Banking,6,Monthly,Yes,236,18,40,4,4,26,19,11,Mobile,3,3,4,No,417,8,Yes
+28,33,Female,Bangalore,2,Active,Credit/Debit Card,14,Monthly,No,135,10,13,20,10,18,3,30,Mobile,5,0,1,Yes,17,15,No
+29,32,Female,Pune,36,Active,UPI,10,Monthly,Yes,156,21,26,7,4,11,23,18,Mobile,3,1,2,Yes,180,3,Yes
+30,26,Female,Chennai,36,Cancelled,Credit/Debit Card,10,Yearly,No,208,74,34,10,6,58,0,3,Tablet,2,0,12,Yes,34,3,Yes
+31,23,Male,Kolkata,54,Cancelled,UPI,1,Quarterly,No,75,27,1,14,2,56,8,27,Mobile,3,1,10,No,48,12,No
+32,23,Female,Mumbai,19,Active,Credit/Debit Card,1,Monthly,Yes,151,67,8,12,8,16,25,29,Mobile,1,2,0,Yes,60,14,Yes
+33,38,Female,Kolkata,17,Active,Credit/Debit Card,0,Monthly,Yes,127,69,14,0,3,36,43,4,Mobile,1,4,7,Yes,183,0,Yes
+34,21,Female,Chennai,18,Cancelled,Credit/Debit Card,12,Quarterly,No,293,14,8,9,5,7,41,8,Mobile,4,3,6,Yes,446,15,No
+35,56,Male,Pune,44,Active,UPI,13,Monthly,Yes,25,66,26,7,6,9,23,17,Mobile,3,4,1,No,344,9,Yes
+36,37,Male,Hyderabad,16,Active,UPI,15,Monthly,Yes,210,61,23,10,6,54,26,5,Mobile,5,0,8,Yes,150,7,Yes
+37,46,Male,Chennai,25,Active,Credit/Debit Card,6,Monthly,No,165,20,6,5,6,34,21,5,Mobile,4,0,2,Yes,356,11,Yes
+38,44,Female,Chennai,10,Cancelled,UPI,14,Monthly,No,225,78,10,13,0,23,33,19,Mobile,5,5,1,No,300,15,Yes
+39,19,Male,Kolkata,33,Active,UPI,13,Quarterly,No,67,12,21,12,1,48,15,12,Desktop,2,1,4,No,102,12,No
+40,54,Male,Bangalore,51,Active,UPI,1,Monthly,Yes,267,28,31,3,6,57,24,18,Desktop,4,1,5,Yes,300,1,Yes
+41,21,Male,Bangalore,2,Active,Credit/Debit Card,10,Monthly,No,98,10,21,19,1,46,1,14,Desktop,1,5,3,No,219,6,No
+42,25,Male,Bangalore,59,Cancelled,UPI,8,Yearly,No,280,27,26,20,7,6,5,18,Tablet,2,3,5,No,127,7,No
+43,25,Male,Chennai,60,Active,Credit/Debit Card,15,Yearly,Yes,39,45,22,14,1,48,7,12,Mobile,4,0,9,Yes,137,6,Yes
+44,50,Male,Kolkata,54,Active,UPI,10,Monthly,No,172,62,6,13,9,14,37,14,Mobile,2,5,0,Yes,288,9,No
+45,19,Female,Hyderabad,7,Active,UPI,13,Quarterly,Yes,25,66,19,2,1,55,28,25,Mobile,4,2,2,Yes,334,5,No
+46,58,Male,Pune,8,Active,Credit/Debit Card,0,Yearly,Yes,200,46,23,13,9,26,31,4,Mobile,1,0,11,Yes,293,10,Yes
+47,50,Male,Mumbai,26,Active,UPI,14,Monthly,Yes,282,51,20,15,4,36,33,2,Mobile,5,2,10,No,500,1,Yes
+48,40,Male,Hyderabad,18,Active,UPI,10,Monthly,Yes,256,34,1,10,4,38,11,8,Mobile,1,4,9,No,459,10,No
+49,58,Female,Bangalore,18,Active,UPI,11,Monthly,Yes,226,40,19,20,0,42,36,2,Mobile,1,5,6,No,421,12,No
+50,26,Female,Chennai,55,Active,Net Banking,0,Monthly,No,113,23,14,11,1,54,30,3,Mobile,5,2,0,Yes,81,6,Yes
+51,52,Male,Pune,17,Active,UPI,14,Quarterly,Yes,116,5,6,6,10,6,11,12,Mobile,2,4,7,No,345,10,Yes
+52,22,Female,Hyderabad,17,Active,UPI,11,Quarterly,No,26,27,32,0,10,5,19,1,Mobile,3,5,0,Yes,414,2,No
+53,27,Male,Pune,31,Cancelled,Net Banking,15,Monthly,No,186,32,3,18,9,20,32,9,Mobile,5,5,12,Yes,177,8,No
+54,19,Female,Bangalore,18,Active,Net Banking,14,Monthly,Yes,145,76,40,1,6,46,44,14,Mobile,3,5,9,Yes,338,3,Yes
+55,20,Male,Kolkata,15,Active,UPI,1,Monthly,No,137,25,7,18,6,54,45,10,Mobile,5,2,14,No,285,1,No
+56,59,Female,Bangalore,31,Active,UPI,2,Quarterly,Yes,180,67,9,19,5,58,47,3,Desktop,2,4,1,Yes,478,13,Yes
+57,57,Male,Ahmedabad,10,Cancelled,Credit/Debit Card,0,Monthly,No,9,20,20,17,6,31,28,13,Mobile,4,2,15,No,74,4,No
+58,57,Female,Pune,42,Active,Credit/Debit Card,2,Yearly,No,182,51,29,18,3,30,35,19,Mobile,1,4,15,No,310,8,Yes
+59,52,Male,Mumbai,21,Active,Net Banking,7,Yearly,No,21,57,13,15,7,52,35,2,Mobile,3,0,3,No,271,9,No
+60,52,Male,Ahmedabad,49,Active,UPI,4,Monthly,No,100,8,39,7,2,45,24,30,Desktop,1,1,3,Yes,27,6,Yes
+61,50,Male,Mumbai,21,Active,UPI,14,Monthly,Yes,54,13,13,8,10,38,44,9,Mobile,3,4,10,No,429,2,No
+62,39,Female,Bangalore,1,Active,UPI,4,Monthly,Yes,244,30,36,8,3,41,1,17,Desktop,3,1,0,Yes,12,0,No
+63,32,Female,Pune,7,Cancelled,Net Banking,13,Monthly,Yes,173,65,3,9,8,8,16,18,Mobile,4,5,11,No,150,12,Yes
+64,53,Female,Ahmedabad,12,Active,Net Banking,13,Monthly,Yes,120,64,13,18,10,43,20,2,Mobile,2,3,5,No,170,4,Yes
+65,47,Male,Bangalore,18,Active,UPI,13,Monthly,No,214,8,21,10,0,14,33,7,Desktop,3,1,11,Yes,240,11,Yes
+66,42,Male,Chennai,45,Active,UPI,10,Monthly,No,41,8,11,19,4,52,25,12,Mobile,2,4,8,Yes,378,1,Yes
+67,57,Female,Chennai,27,Active,Net Banking,15,Quarterly,Yes,22,35,13,5,1,45,41,0,Mobile,5,5,12,Yes,279,15,Yes
+68,49,Female,Kolkata,31,Active,Credit/Debit Card,0,Monthly,No,59,48,11,2,6,24,32,19,Mobile,4,5,0,Yes,295,4,No
+69,36,Female,Chennai,50,Active,UPI,10,Monthly,No,239,61,13,6,4,39,34,5,Desktop,5,5,11,Yes,444,0,No
+70,30,Female,Mumbai,36,Active,Credit/Debit Card,8,Monthly,No,128,53,2,17,9,32,15,21,Mobile,4,1,12,No,421,5,Yes
+71,24,Male,Pune,35,Active,UPI,7,Monthly,No,185,31,29,13,9,17,27,4,Mobile,5,2,12,No,218,15,No
+72,26,Male,Mumbai,3,Active,UPI,14,Quarterly,Yes,121,72,37,9,3,50,40,4,Tablet,3,0,10,No,270,1,No
+73,18,Female,Hyderabad,43,Active,UPI,10,Monthly,No,88,60,36,18,6,49,32,24,Desktop,4,1,13,No,365,14,Yes
+74,50,Female,Chennai,14,Cancelled,Credit/Debit Card,12,Monthly,Yes,259,31,35,17,10,57,13,14,Mobile,1,1,5,Yes,226,8,No
+75,47,Male,Ahmedabad,25,Active,UPI,0,Monthly,Yes,11,54,34,6,10,59,47,10,Desktop,3,0,1,No,44,9,Yes
+76,40,Female,Ahmedabad,35,Active,UPI,7,Monthly,Yes,241,19,34,2,8,44,45,15,Desktop,5,3,8,Yes,61,9,Yes
+77,19,Female,Hyderabad,43,Cancelled,UPI,0,Monthly,Yes,105,53,7,6,7,24,5,28,Mobile,3,3,11,Yes,206,9,Yes
+78,28,Female,Ahmedabad,30,Active,Net Banking,6,Quarterly,Yes,81,14,14,20,4,40,9,7,Mobile,5,4,3,No,428,3,No
+79,57,Female,Bangalore,39,Active,Net Banking,11,Quarterly,Yes,142,22,12,5,5,12,38,25,Mobile,1,0,0,Yes,76,8,Yes
+80,33,Male,Mumbai,60,Cancelled,Net Banking,15,Yearly,No,35,56,9,10,0,7,21,13,Desktop,2,4,10,Yes,345,12,No
+81,33,Male,Pune,29,Cancelled,UPI,12,Yearly,No,264,59,24,5,3,34,4,22,Desktop,1,1,4,No,124,9,Yes
+82,25,Female,Mumbai,25,Active,UPI,15,Quarterly,No,198,21,11,8,3,53,46,25,Mobile,3,1,4,Yes,178,10,Yes
+83,22,Male,Mumbai,45,Active,UPI,1,Monthly,No,25,71,5,0,9,17,29,30,Mobile,1,5,10,Yes,31,0,No
+84,19,Male,Hyderabad,9,Active,UPI,10,Quarterly,Yes,164,49,36,13,5,31,38,29,Mobile,2,3,8,Yes,455,1,Yes
+85,27,Female,Kolkata,46,Cancelled,Credit/Debit Card,9,Yearly,No,129,25,14,0,4,42,17,26,Tablet,2,2,12,No,320,5,Yes
+86,21,Male,Mumbai,37,Active,UPI,2,Yearly,No,46,24,5,15,4,31,37,16,Desktop,3,5,9,Yes,280,1,No
+87,57,Male,Mumbai,4,Active,UPI,0,Quarterly,No,134,47,13,13,5,31,6,25,Desktop,1,0,3,Yes,452,9,Yes
+88,45,Female,Mumbai,49,Active,Credit/Debit Card,0,Yearly,Yes,167,9,38,15,5,23,43,6,Mobile,2,1,2,No,183,2,No
+89,48,Male,Mumbai,25,Active,Credit/Debit Card,7,Monthly,Yes,152,76,40,4,7,33,7,15,Mobile,2,4,8,No,19,0,Yes
+90,25,Male,Pune,39,Active,Credit/Debit Card,11,Monthly,No,109,48,3,14,4,34,29,13,Mobile,2,0,3,Yes,227,3,Yes
+91,28,Male,Kolkata,10,Cancelled,UPI,2,Quarterly,No,142,31,23,15,7,42,4,25,Desktop,4,3,13,No,84,10,Yes
+92,51,Female,Chennai,28,Cancelled,UPI,7,Quarterly,No,216,29,19,8,8,6,32,9,Mobile,5,1,11,Yes,451,0,No
+93,24,Male,Mumbai,34,Active,UPI,4,Yearly,Yes,108,66,11,6,2,60,0,23,Mobile,2,3,1,Yes,262,13,Yes
+94,45,Male,Bangalore,45,Active,UPI,5,Monthly,No,233,19,6,7,7,28,50,14,Desktop,2,1,3,Yes,59,6,Yes
+95,44,Female,Bangalore,57,Active,UPI,11,Monthly,Yes,124,37,8,13,10,13,23,24,Mobile,3,0,9,No,307,6,Yes
+96,33,Female,Mumbai,43,Active,UPI,9,Monthly,Yes,71,26,20,8,7,53,43,7,Mobile,5,4,13,No,86,7,Yes
+97,30,Male,Chennai,45,Cancelled,Credit/Debit Card,12,Yearly,No,136,59,13,19,0,5,25,9,Mobile,4,2,1,No,198,12,Yes
+98,50,Male,Kolkata,18,Cancelled,Credit/Debit Card,8,Monthly,Yes,93,20,25,3,5,15,21,1,Mobile,5,3,1,Yes,37,1,Yes
+99,60,Female,Bangalore,24,Active,Net Banking,3,Yearly,No,64,80,18,1,1,50,24,6,Mobile,1,3,12,No,276,14,Yes
+100,49,Female,Hyderabad,57,Active,Credit/Debit Card,1,Monthly,No,86,24,23,15,10,44,42,23,Mobile,4,1,7,No,167,0,Yes
+101,57,Male,Hyderabad,19,Active,UPI,10,Quarterly,Yes,83,77,29,3,6,35,48,22,Mobile,5,3,10,Yes,84,1,No
+102,33,Male,Pune,19,Active,UPI,2,Yearly,No,68,38,20,1,2,42,19,1,Desktop,3,5,9,No,138,12,Yes
+103,39,Female,Pune,28,Active,UPI,6,Yearly,Yes,143,26,2,16,9,23,35,5,Mobile,4,5,15,No,57,0,No
+104,32,Female,Mumbai,36,Active,UPI,8,Monthly,Yes,136,21,23,19,1,10,0,19,Mobile,1,5,12,Yes,139,6,Yes
+105,33,Female,Chennai,38,Active,UPI,5,Monthly,No,196,21,3,9,10,41,16,15,Tablet,1,3,2,No,274,7,No
+106,24,Female,Kolkata,4,Active,UPI,8,Monthly,Yes,195,75,23,7,10,31,30,6,Tablet,1,4,6,No,372,10,No
+107,39,Male,Hyderabad,27,Cancelled,Credit/Debit Card,3,Monthly,Yes,149,59,19,20,0,32,36,24,Mobile,1,3,8,Yes,471,6,Yes
+108,48,Male,Ahmedabad,38,Cancelled,Credit/Debit Card,7,Monthly,Yes,34,50,14,20,6,40,25,24,Desktop,2,5,3,No,103,5,No
+109,29,Female,Kolkata,49,Active,UPI,5,Monthly,No,61,80,12,13,3,15,29,1,Tablet,3,3,2,Yes,374,3,Yes
+110,40,Male,Chennai,57,Cancelled,UPI,10,Monthly,Yes,162,46,28,7,5,27,30,25,Mobile,4,3,7,No,469,14,Yes
+111,45,Male,Bangalore,59,Active,UPI,3,Monthly,No,198,21,18,18,8,48,46,10,Tablet,5,5,11,Yes,445,15,No
+112,47,Male,Bangalore,45,Active,UPI,6,Quarterly,Yes,26,62,24,2,2,6,40,7,Mobile,5,5,5,No,223,5,No
+113,28,Male,Hyderabad,11,Active,UPI,11,Quarterly,No,166,38,2,14,5,30,5,13,Mobile,1,0,3,No,94,15,Yes
+114,25,Male,Bangalore,6,Active,Net Banking,4,Monthly,Yes,27,41,25,2,3,27,14,6,Desktop,4,5,0,No,441,2,Yes
+115,26,Female,Chennai,45,Active,Net Banking,1,Quarterly,No,139,74,14,1,1,6,22,13,Tablet,2,0,4,Yes,222,2,No
+116,35,Female,Hyderabad,36,Active,Credit/Debit Card,7,Monthly,No,45,28,5,13,6,18,11,13,Desktop,5,2,1,No,287,15,No
+117,43,Male,Hyderabad,3,Cancelled,Credit/Debit Card,7,Monthly,No,7,17,8,16,7,19,36,30,Desktop,3,4,12,Yes,225,14,No
+118,24,Female,Mumbai,29,Active,Net Banking,13,Yearly,No,215,72,33,17,4,41,35,5,Desktop,5,2,1,No,472,3,No
+119,55,Male,Hyderabad,37,Active,UPI,11,Monthly,Yes,149,68,21,12,8,9,33,8,Mobile,5,2,8,Yes,238,9,No
+120,46,Female,Pune,43,Cancelled,Net Banking,0,Monthly,Yes,105,49,14,19,1,5,46,9,Mobile,4,2,9,No,320,0,Yes
+121,26,Male,Chennai,36,Active,UPI,6,Monthly,Yes,138,33,18,7,7,59,4,20,Mobile,5,1,4,Yes,496,7,Yes
+122,60,Female,Pune,34,Active,UPI,7,Yearly,No,159,30,15,4,10,20,3,9,Mobile,4,2,6,No,105,12,No
+123,24,Male,Hyderabad,46,Active,UPI,13,Monthly,No,155,40,20,20,1,7,5,8,Desktop,2,1,10,No,335,11,Yes
+124,41,Male,Ahmedabad,31,Active,UPI,9,Quarterly,Yes,216,15,10,4,8,36,41,20,Mobile,2,4,14,No,397,1,Yes
+125,59,Female,Mumbai,7,Cancelled,Credit/Debit Card,11,Monthly,No,112,68,28,16,9,59,28,10,Mobile,5,1,2,No,353,15,Yes
+126,28,Female,Mumbai,40,Active,Net Banking,8,Monthly,Yes,83,64,37,10,2,40,12,6,Desktop,2,4,14,No,478,1,No
+127,48,Female,Chennai,49,Active,Credit/Debit Card,0,Monthly,No,101,33,16,6,0,15,29,9,Mobile,5,3,4,No,199,1,Yes
+128,54,Male,Mumbai,5,Active,Credit/Debit Card,11,Yearly,Yes,232,38,24,0,0,16,29,15,Mobile,3,0,15,No,374,9,No
+129,29,Female,Pune,32,Active,UPI,14,Yearly,Yes,136,11,31,1,6,7,44,2,Desktop,5,0,2,Yes,320,6,Yes
+130,41,Female,Pune,8,Active,Credit/Debit Card,11,Monthly,No,151,28,14,11,0,26,44,19,Mobile,3,3,14,No,62,8,Yes
+131,54,Female,Ahmedabad,47,Cancelled,UPI,9,Monthly,Yes,222,78,7,16,4,45,27,4,Desktop,1,5,7,No,20,11,Yes
+132,42,Female,Chennai,3,Cancelled,Net Banking,6,Monthly,Yes,10,12,23,14,2,50,19,1,Desktop,1,0,14,Yes,441,13,Yes
+133,55,Female,Kolkata,12,Active,UPI,4,Quarterly,Yes,163,67,10,10,6,59,12,6,Mobile,5,1,15,No,304,9,No
+134,55,Male,Pune,44,Active,UPI,14,Monthly,Yes,199,17,40,20,1,32,24,3,Mobile,1,3,12,Yes,65,15,Yes
+135,48,Male,Bangalore,20,Cancelled,UPI,8,Monthly,Yes,294,36,23,3,8,52,34,12,Mobile,4,0,8,No,358,5,Yes
+136,22,Female,Bangalore,50,Active,Credit/Debit Card,1,Quarterly,No,95,56,37,4,7,60,17,29,Tablet,1,3,10,No,332,4,Yes
+137,42,Female,Kolkata,27,Cancelled,Credit/Debit Card,14,Monthly,Yes,26,51,14,9,7,30,38,9,Tablet,1,0,2,Yes,445,13,Yes
+138,48,Male,Bangalore,11,Active,UPI,13,Monthly,No,124,60,21,11,2,41,40,17,Mobile,2,1,14,Yes,315,5,No
+139,42,Male,Hyderabad,47,Active,UPI,2,Monthly,No,249,79,30,6,7,48,37,18,Mobile,3,4,15,No,453,6,No
+140,27,Female,Mumbai,47,Active,Credit/Debit Card,13,Monthly,Yes,232,7,30,17,0,28,34,23,Mobile,4,0,11,No,450,11,No
+141,60,Male,Mumbai,49,Cancelled,UPI,8,Quarterly,No,31,22,14,11,7,12,16,16,Mobile,2,3,5,Yes,130,11,Yes
+142,53,Male,Chennai,29,Active,UPI,12,Quarterly,No,79,71,29,10,9,47,14,21,Mobile,2,1,12,Yes,191,9,Yes
+143,57,Male,Bangalore,54,Active,Net Banking,10,Monthly,No,260,12,22,3,0,8,32,4,Mobile,2,2,7,Yes,39,13,Yes
+144,43,Female,Ahmedabad,50,Active,UPI,15,Monthly,Yes,42,39,7,8,5,48,19,28,Desktop,2,0,6,No,109,3,Yes
+145,21,Female,Chennai,49,Active,UPI,9,Quarterly,No,63,54,3,11,3,29,39,25,Tablet,2,2,15,No,378,15,Yes
+146,19,Female,Bangalore,31,Active,UPI,1,Quarterly,Yes,296,67,32,19,5,49,41,20,Mobile,5,5,12,Yes,85,11,Yes
+147,24,Male,Mumbai,18,Cancelled,UPI,5,Yearly,Yes,233,80,24,10,9,48,21,10,Tablet,3,2,0,No,193,3,Yes
+148,50,Female,Ahmedabad,59,Cancelled,UPI,15,Yearly,Yes,264,10,9,3,6,56,12,17,Tablet,5,2,13,No,282,3,Yes
+149,57,Female,Kolkata,50,Active,UPI,9,Quarterly,No,51,54,22,16,5,18,27,17,Tablet,2,4,10,Yes,223,7,No
+150,44,Female,Pune,22,Active,Credit/Debit Card,5,Monthly,No,108,41,5,18,1,30,10,6,Mobile,2,5,4,Yes,65,1,No
+151,52,Male,Mumbai,22,Active,UPI,5,Quarterly,No,53,11,10,6,7,20,24,6,Mobile,1,4,9,No,233,12,No
+152,26,Male,Pune,50,Active,UPI,5,Yearly,No,162,31,20,14,5,60,24,8,Mobile,4,2,1,No,330,5,Yes
+153,41,Male,Ahmedabad,31,Cancelled,Net Banking,15,Monthly,No,86,23,21,9,1,26,9,16,Mobile,2,2,9,No,446,10,No
+154,35,Male,Bangalore,33,Active,Credit/Debit Card,12,Monthly,Yes,79,11,3,10,3,32,41,5,Mobile,4,3,4,Yes,434,1,Yes
+155,29,Male,Mumbai,30,Cancelled,Net Banking,6,Quarterly,No,8,59,4,1,3,32,45,15,Mobile,1,0,3,No,144,7,Yes
+156,57,Female,Chennai,15,Active,Credit/Debit Card,12,Monthly,Yes,259,28,33,13,5,51,28,16,Mobile,4,4,4,Yes,191,10,No
+157,43,Female,Chennai,12,Cancelled,UPI,11,Yearly,Yes,131,37,37,11,0,31,5,20,Mobile,1,1,3,No,159,9,No
+158,31,Male,Mumbai,18,Active,UPI,5,Quarterly,Yes,253,18,21,9,0,54,3,16,Mobile,1,2,14,No,459,12,Yes
+159,23,Female,Mumbai,16,Cancelled,Net Banking,2,Monthly,No,150,62,28,13,1,41,29,9,Mobile,1,4,12,No,392,8,Yes
+160,36,Female,Mumbai,58,Active,UPI,10,Quarterly,Yes,27,9,34,9,3,8,23,28,Mobile,1,1,0,Yes,134,14,Yes
+161,39,Male,Bangalore,58,Active,Net Banking,2,Quarterly,No,110,61,27,5,3,60,9,27,Mobile,2,3,9,No,472,1,Yes
+162,33,Female,Bangalore,19,Active,Credit/Debit Card,1,Monthly,Yes,173,46,38,14,8,49,37,22,Mobile,5,4,8,No,36,0,Yes
+163,34,Female,Kolkata,55,Cancelled,UPI,2,Yearly,No,46,51,4,6,5,52,46,5,Desktop,5,4,6,Yes,180,11,Yes
+164,23,Male,Ahmedabad,42,Cancelled,UPI,1,Yearly,No,119,11,18,12,1,40,37,5,Desktop,5,2,15,Yes,51,7,No
+165,51,Male,Pune,38,Active,UPI,0,Monthly,Yes,176,28,27,16,8,22,40,18,Mobile,1,3,4,No,346,2,Yes
+166,55,Female,Mumbai,29,Cancelled,UPI,6,Quarterly,No,69,20,5,6,8,24,19,18,Mobile,4,3,12,Yes,381,10,Yes
+167,45,Female,Kolkata,19,Active,UPI,5,Monthly,Yes,296,71,23,16,7,43,22,28,Mobile,3,1,15,No,440,6,Yes
+168,24,Male,Chennai,38,Active,UPI,12,Yearly,Yes,116,73,21,18,10,52,46,10,Mobile,5,1,13,No,270,2,No
+169,42,Female,Mumbai,3,Cancelled,Credit/Debit Card,10,Monthly,Yes,128,39,26,2,6,10,41,17,Desktop,4,3,3,No,402,9,Yes
+170,44,Female,Hyderabad,26,Active,UPI,7,Monthly,Yes,183,48,4,8,2,55,16,11,Mobile,2,5,12,Yes,17,1,No
+171,25,Male,Bangalore,10,Active,Credit/Debit Card,9,Monthly,No,204,25,4,2,8,11,10,1,Mobile,1,1,8,No,448,9,Yes
+172,35,Male,Hyderabad,47,Active,UPI,6,Quarterly,Yes,151,48,36,16,4,9,6,3,Mobile,4,0,11,Yes,310,9,No
+173,33,Male,Ahmedabad,59,Active,Credit/Debit Card,8,Monthly,Yes,184,49,32,15,2,36,24,10,Mobile,4,0,7,Yes,205,2,Yes
+174,20,Male,Mumbai,9,Cancelled,UPI,11,Monthly,Yes,150,31,33,2,4,12,30,24,Mobile,5,3,11,No,32,9,No
+175,31,Female,Mumbai,48,Cancelled,UPI,5,Quarterly,No,15,58,4,0,9,22,37,0,Desktop,1,5,5,Yes,121,4,Yes
+176,56,Female,Mumbai,19,Active,Credit/Debit Card,5,Yearly,No,164,41,19,12,8,25,9,2,Tablet,2,1,1,No,42,8,Yes
+177,45,Male,Chennai,13,Cancelled,Credit/Debit Card,2,Monthly,No,228,41,22,7,7,51,50,5,Mobile,5,2,2,No,229,4,Yes
+178,57,Female,Kolkata,49,Active,Credit/Debit Card,4,Quarterly,Yes,154,52,31,9,5,14,48,17,Mobile,4,1,2,Yes,131,13,Yes
+179,39,Male,Pune,20,Active,UPI,0,Monthly,No,182,46,1,6,7,30,29,4,Mobile,1,5,11,Yes,425,13,Yes
+180,49,Female,Mumbai,57,Active,UPI,14,Quarterly,Yes,265,42,1,2,2,41,7,11,Mobile,1,4,2,No,107,13,No
+181,34,Female,Mumbai,18,Active,UPI,13,Monthly,Yes,299,56,30,12,3,40,36,10,Mobile,1,3,1,No,374,8,Yes
+182,60,Female,Hyderabad,40,Cancelled,UPI,8,Monthly,Yes,159,36,4,2,9,5,49,15,Mobile,1,2,10,No,306,0,Yes
+183,60,Male,Bangalore,6,Active,Credit/Debit Card,6,Monthly,Yes,35,44,5,0,0,53,19,30,Mobile,5,1,9,No,415,7,No
+184,41,Male,Ahmedabad,25,Active,Credit/Debit Card,9,Monthly,Yes,18,55,5,18,0,13,2,27,Desktop,5,3,12,No,119,13,No
+185,19,Female,Bangalore,27,Active,UPI,3,Monthly,No,74,28,40,15,8,59,31,8,Desktop,4,4,14,Yes,104,5,Yes
+186,20,Male,Mumbai,15,Active,UPI,9,Yearly,Yes,7,35,14,5,10,16,1,9,Desktop,1,4,14,Yes,122,11,No
+187,23,Female,Bangalore,37,Active,Credit/Debit Card,5,Monthly,Yes,286,40,35,19,7,55,48,14,Desktop,2,3,3,Yes,95,3,No
+188,48,Male,Chennai,1,Cancelled,Credit/Debit Card,11,Monthly,No,137,20,26,14,10,32,9,4,Mobile,1,1,8,No,408,8,No
+189,38,Male,Chennai,25,Active,UPI,8,Monthly,Yes,241,15,14,7,6,49,5,11,Desktop,3,3,2,Yes,242,8,No
+190,25,Male,Ahmedabad,13,Active,Net Banking,9,Monthly,Yes,243,14,2,19,3,23,13,4,Tablet,2,3,13,No,471,15,No
+191,31,Male,Hyderabad,44,Active,UPI,9,Monthly,No,158,26,32,4,5,46,43,7,Mobile,3,1,4,Yes,487,14,Yes
+192,47,Male,Hyderabad,18,Cancelled,Net Banking,6,Monthly,Yes,275,44,1,4,0,48,50,16,Mobile,5,5,8,No,488,4,Yes
+193,30,Female,Bangalore,35,Active,Net Banking,0,Monthly,Yes,98,59,39,2,8,31,31,26,Mobile,1,0,4,No,172,13,Yes
+194,48,Male,Bangalore,14,Active,Credit/Debit Card,9,Monthly,Yes,282,53,39,2,10,19,24,19,Mobile,4,3,11,No,187,6,Yes
+195,52,Male,Kolkata,16,Active,UPI,2,Quarterly,Yes,94,36,27,6,7,34,23,22,Mobile,4,5,1,Yes,499,4,Yes
+196,42,Male,Ahmedabad,17,Cancelled,UPI,3,Yearly,No,14,15,22,13,2,17,3,17,Mobile,3,4,9,Yes,225,0,No
+197,48,Male,Bangalore,43,Active,UPI,0,Monthly,Yes,268,34,19,20,8,54,28,21,Mobile,4,2,5,Yes,97,4,Yes
+198,35,Female,Ahmedabad,54,Active,UPI,14,Monthly,Yes,247,15,34,6,8,20,22,15,Mobile,3,2,3,No,10,9,Yes
+199,43,Male,Mumbai,56,Active,Net Banking,7,Monthly,Yes,246,54,14,10,7,5,48,7,Mobile,3,2,1,Yes,337,10,Yes
+200,54,Female,Pune,5,Active,Net Banking,7,Quarterly,Yes,72,52,28,3,7,52,37,1,Desktop,1,0,4,Yes,291,12,No
+201,41,Male,Bangalore,18,Active,Credit/Debit Card,10,Quarterly,Yes,236,73,30,6,1,30,15,8,Mobile,2,1,6,Yes,484,15,Yes
+202,59,Female,Mumbai,40,Active,Credit/Debit Card,13,Monthly,No,151,63,27,16,0,7,2,20,Mobile,5,0,12,No,65,13,No
+203,44,Female,Chennai,40,Active,Net Banking,2,Yearly,No,15,80,24,8,1,22,47,23,Mobile,5,4,8,Yes,499,10,No
+204,46,Female,Ahmedabad,26,Cancelled,Credit/Debit Card,7,Monthly,Yes,63,65,37,7,6,9,3,7,Mobile,2,1,11,No,11,6,No
+205,57,Male,Bangalore,38,Active,UPI,3,Monthly,Yes,135,52,3,0,5,9,8,3,Mobile,4,1,12,No,227,13,Yes
+206,48,Female,Pune,6,Active,Credit/Debit Card,14,Quarterly,No,31,68,2,3,3,7,32,30,Tablet,1,0,4,Yes,478,11,No
+207,41,Female,Ahmedabad,47,Active,Net Banking,3,Quarterly,Yes,192,10,32,7,0,10,46,6,Desktop,2,3,15,Yes,257,8,Yes
+208,58,Female,Chennai,21,Active,UPI,15,Monthly,No,282,41,24,4,9,39,34,10,Mobile,3,5,12,Yes,492,3,No
+209,45,Male,Ahmedabad,45,Active,Credit/Debit Card,9,Monthly,No,29,40,38,15,4,22,1,30,Mobile,4,5,12,No,428,13,Yes
+210,31,Female,Mumbai,30,Cancelled,UPI,8,Quarterly,Yes,226,10,6,8,9,37,18,1,Desktop,5,1,10,No,15,13,Yes
+211,51,Female,Kolkata,5,Active,UPI,15,Monthly,Yes,201,75,15,14,8,29,23,19,Mobile,1,5,12,No,159,11,Yes
+212,25,Female,Bangalore,56,Active,Credit/Debit Card,6,Monthly,No,193,44,22,12,3,12,24,19,Desktop,4,3,8,Yes,173,9,Yes
+213,31,Male,Pune,12,Active,UPI,3,Yearly,Yes,127,45,40,13,1,31,3,20,Desktop,3,1,3,Yes,89,5,Yes
+214,28,Male,Hyderabad,16,Cancelled,Credit/Debit Card,2,Quarterly,No,60,67,38,7,1,41,49,20,Mobile,1,1,9,No,65,6,Yes
+215,55,Female,Chennai,36,Active,UPI,1,Quarterly,Yes,185,72,23,20,0,10,11,6,Desktop,5,3,3,Yes,487,3,No
+216,45,Female,Bangalore,20,Active,UPI,8,Monthly,Yes,25,45,16,10,7,40,29,12,Mobile,1,1,5,No,245,5,No
+217,59,Female,Kolkata,27,Cancelled,Net Banking,1,Yearly,Yes,271,33,22,16,9,14,14,20,Mobile,2,0,3,No,403,6,No
+218,29,Male,Chennai,8,Active,UPI,14,Monthly,Yes,112,15,6,18,5,25,33,25,Mobile,1,1,1,No,494,0,Yes
+219,24,Male,Bangalore,30,Active,UPI,14,Quarterly,No,291,12,28,8,5,24,14,10,Mobile,2,1,5,No,196,10,No
+220,22,Male,Hyderabad,1,Active,Credit/Debit Card,1,Monthly,Yes,125,23,37,4,2,30,27,12,Mobile,1,1,13,Yes,363,8,No
+221,21,Female,Pune,43,Active,Credit/Debit Card,14,Monthly,No,233,10,17,17,4,40,37,19,Mobile,1,5,6,No,99,14,Yes
+222,23,Female,Chennai,40,Active,UPI,5,Yearly,No,237,47,36,2,1,22,1,22,Mobile,3,2,10,Yes,298,9,No
+223,51,Male,Mumbai,49,Active,Net Banking,0,Quarterly,No,60,78,33,15,3,35,16,14,Mobile,1,3,4,No,255,5,No
+224,59,Male,Chennai,43,Cancelled,Credit/Debit Card,12,Monthly,No,121,44,35,10,5,44,4,15,Mobile,4,4,0,Yes,414,10,No
+225,52,Male,Bangalore,5,Active,Credit/Debit Card,0,Quarterly,Yes,127,48,39,6,9,27,3,15,Mobile,4,4,3,No,42,7,Yes
+226,40,Female,Bangalore,5,Active,UPI,9,Yearly,Yes,195,23,38,0,3,49,43,24,Mobile,4,2,12,No,183,8,Yes
+227,23,Female,Pune,52,Cancelled,Net Banking,5,Monthly,Yes,175,26,16,20,1,54,32,1,Desktop,4,2,10,No,72,3,No
+228,26,Female,Hyderabad,13,Active,Credit/Debit Card,14,Quarterly,No,69,21,3,4,10,14,30,0,Desktop,5,5,7,Yes,69,9,No
+229,55,Female,Mumbai,52,Active,Net Banking,9,Yearly,No,16,47,20,15,2,29,32,28,Tablet,4,0,8,No,486,2,Yes
+230,37,Male,Chennai,27,Cancelled,UPI,4,Monthly,Yes,269,55,34,10,10,26,3,25,Mobile,1,4,8,No,107,1,Yes
+231,34,Male,Chennai,53,Active,Credit/Debit Card,0,Monthly,No,12,34,25,7,9,17,18,30,Desktop,4,3,10,No,114,0,Yes
+232,20,Female,Hyderabad,57,Active,UPI,13,Yearly,Yes,97,54,40,12,9,10,1,21,Mobile,2,5,8,No,22,5,No
+233,38,Female,Kolkata,32,Active,Net Banking,15,Yearly,Yes,189,49,2,10,0,19,7,0,Tablet,5,4,14,No,143,7,Yes
+234,33,Female,Kolkata,46,Cancelled,Credit/Debit Card,15,Quarterly,No,92,69,31,7,2,11,14,10,Mobile,2,1,2,Yes,271,0,No
+235,57,Female,Pune,2,Active,UPI,4,Monthly,No,109,57,18,20,8,13,21,4,Desktop,4,3,1,No,482,6,Yes
+236,57,Male,Pune,14,Active,UPI,15,Monthly,Yes,8,31,27,18,4,26,12,21,Mobile,2,1,3,No,119,4,Yes
+237,55,Male,Bangalore,58,Active,UPI,15,Quarterly,Yes,168,24,22,6,7,14,32,24,Desktop,1,3,7,Yes,293,13,Yes
+238,47,Male,Bangalore,39,Active,UPI,15,Monthly,Yes,52,48,18,12,3,22,40,7,Mobile,2,5,4,Yes,353,3,No
+239,18,Female,Hyderabad,11,Active,UPI,10,Yearly,No,219,57,37,8,8,50,46,29,Desktop,4,2,3,No,434,0,Yes
+240,41,Female,Kolkata,12,Active,UPI,9,Monthly,Yes,52,18,18,13,6,37,33,29,Mobile,1,1,2,No,128,9,No
+241,24,Female,Kolkata,55,Active,Credit/Debit Card,13,Monthly,No,189,13,13,13,1,52,33,18,Mobile,4,1,6,No,214,15,No
+242,58,Female,Mumbai,25,Active,Net Banking,7,Monthly,No,76,35,31,4,3,45,7,15,Desktop,4,5,12,Yes,306,15,No
+243,22,Male,Bangalore,42,Cancelled,Net Banking,0,Yearly,Yes,99,45,11,10,8,49,11,9,Mobile,3,2,8,Yes,467,11,No
+244,27,Male,Kolkata,46,Active,UPI,10,Monthly,Yes,191,75,11,7,4,14,50,24,Mobile,5,3,15,No,300,8,No
+245,47,Female,Bangalore,42,Active,Credit/Debit Card,5,Yearly,Yes,292,67,17,4,7,21,1,7,Mobile,5,5,9,Yes,32,4,No
+246,31,Male,Ahmedabad,51,Cancelled,Net Banking,14,Yearly,No,10,18,30,5,3,27,19,25,Mobile,1,1,10,No,225,13,No
+247,45,Male,Hyderabad,59,Active,UPI,10,Monthly,Yes,232,68,5,13,10,58,17,26,Mobile,5,5,8,Yes,176,9,Yes
+248,42,Male,Bangalore,28,Active,UPI,9,Monthly,No,225,34,21,2,8,48,32,21,Tablet,5,3,14,No,30,2,No
+249,29,Female,Chennai,42,Cancelled,Net Banking,6,Monthly,Yes,263,76,36,18,8,29,14,5,Mobile,3,1,1,No,433,9,Yes
+250,19,Male,Pune,3,Active,Credit/Debit Card,13,Quarterly,Yes,100,54,30,6,9,42,45,15,Mobile,4,4,14,No,91,7,Yes
+251,21,Male,Mumbai,17,Active,Net Banking,1,Monthly,Yes,252,36,3,16,9,54,24,6,Mobile,4,4,10,Yes,295,2,Yes
+252,30,Male,Chennai,55,Active,Credit/Debit Card,15,Monthly,Yes,179,74,35,18,2,53,49,24,Desktop,2,5,4,Yes,145,1,No
+253,53,Male,Mumbai,59,Active,UPI,10,Yearly,Yes,56,75,17,2,0,14,21,14,Desktop,1,5,0,No,355,4,No
+254,29,Male,Mumbai,15,Active,UPI,15,Quarterly,Yes,90,48,20,18,1,9,45,9,Mobile,5,0,15,Yes,99,5,Yes
+255,43,Female,Mumbai,17,Active,UPI,5,Monthly,Yes,143,43,21,2,9,24,12,10,Mobile,5,5,0,No,462,1,No
+256,29,Female,Bangalore,11,Active,Net Banking,11,Monthly,No,95,23,12,3,2,32,3,26,Mobile,1,5,11,Yes,38,8,Yes
+257,37,Male,Ahmedabad,12,Active,Net Banking,0,Monthly,Yes,269,13,25,20,2,59,20,26,Mobile,1,2,4,No,202,15,No
+258,57,Male,Pune,1,Active,UPI,6,Yearly,No,116,49,24,19,4,6,48,15,Mobile,1,2,4,No,56,8,No
+259,60,Male,Bangalore,40,Active,UPI,7,Monthly,No,244,55,7,13,6,43,32,20,Mobile,4,1,8,Yes,194,7,Yes
+260,56,Male,Kolkata,1,Active,UPI,11,Monthly,No,273,34,39,1,5,46,38,9,Mobile,5,1,13,Yes,205,1,No
+261,51,Female,Hyderabad,13,Active,UPI,4,Quarterly,Yes,270,68,33,3,8,15,20,17,Mobile,5,4,5,Yes,26,15,Yes
+262,24,Male,Mumbai,38,Active,Credit/Debit Card,3,Monthly,No,175,79,16,13,5,12,44,4,Mobile,2,1,8,Yes,107,2,Yes
+263,56,Male,Chennai,28,Active,UPI,1,Monthly,No,20,76,21,10,3,45,38,22,Mobile,4,0,15,Yes,115,7,No
+264,57,Female,Hyderabad,47,Cancelled,UPI,9,Quarterly,No,40,65,2,13,6,56,12,4,Desktop,4,2,10,No,138,2,No
+265,27,Male,Ahmedabad,50,Active,UPI,4,Monthly,No,91,38,25,12,3,42,47,8,Tablet,5,5,4,No,165,3,No
+266,21,Male,Bangalore,54,Active,Net Banking,12,Monthly,No,49,42,4,11,9,23,6,16,Tablet,5,5,9,Yes,240,10,Yes
+267,33,Female,Chennai,1,Cancelled,Credit/Debit Card,8,Monthly,No,222,80,24,18,10,47,41,1,Mobile,2,1,11,Yes,261,12,No
+268,22,Female,Chennai,54,Cancelled,Net Banking,10,Monthly,No,234,79,17,13,10,26,19,6,Mobile,2,5,1,No,209,8,No
+269,48,Male,Mumbai,48,Cancelled,Net Banking,5,Monthly,No,36,80,5,16,7,19,15,9,Tablet,4,2,0,Yes,392,14,No
+270,57,Male,Ahmedabad,29,Active,Credit/Debit Card,7,Quarterly,No,199,19,37,2,4,34,24,19,Mobile,1,0,4,Yes,239,15,Yes
+271,43,Female,Hyderabad,28,Active,UPI,1,Quarterly,Yes,200,13,3,11,4,44,48,20,Desktop,4,2,1,No,404,10,No
+272,50,Male,Mumbai,30,Active,UPI,1,Monthly,Yes,51,18,7,10,3,9,49,21,Mobile,5,2,10,No,411,11,No
+273,39,Male,Bangalore,36,Cancelled,UPI,8,Monthly,Yes,294,60,30,15,8,50,5,10,Mobile,3,4,12,No,8,2,Yes
+274,42,Female,Chennai,14,Cancelled,Net Banking,13,Monthly,No,153,51,15,11,1,42,39,14,Mobile,2,3,7,No,413,0,No
+275,38,Male,Kolkata,18,Cancelled,UPI,12,Quarterly,Yes,112,60,7,18,9,26,47,29,Mobile,2,4,2,Yes,101,3,No
+276,19,Female,Mumbai,14,Active,Credit/Debit Card,14,Quarterly,Yes,82,17,20,0,5,23,46,0,Mobile,1,3,11,Yes,73,8,No
+277,57,Male,Ahmedabad,11,Active,Credit/Debit Card,13,Monthly,No,200,52,12,14,7,48,39,21,Tablet,3,2,6,No,443,4,No
+278,29,Female,Mumbai,14,Active,UPI,7,Monthly,Yes,273,72,17,3,0,21,18,20,Desktop,4,1,4,No,328,10,Yes
+279,33,Male,Ahmedabad,40,Active,UPI,1,Monthly,Yes,55,18,39,20,1,15,22,6,Desktop,5,0,13,No,479,8,No
+280,31,Male,Chennai,7,Active,UPI,15,Quarterly,Yes,226,33,9,1,5,22,26,21,Mobile,1,0,11,No,289,6,Yes
+281,36,Female,Pune,45,Active,Credit/Debit Card,15,Yearly,No,68,24,1,1,4,56,11,0,Tablet,5,5,10,No,171,8,Yes
+282,23,Female,Mumbai,34,Active,UPI,6,Quarterly,No,113,55,5,17,0,6,14,11,Desktop,5,0,3,No,246,0,No
+283,47,Female,Chennai,18,Active,UPI,8,Yearly,Yes,113,64,26,13,7,27,31,16,Desktop,2,4,5,No,416,11,No
+284,39,Male,Bangalore,39,Active,UPI,14,Quarterly,Yes,154,76,6,3,6,60,20,27,Mobile,2,4,14,No,473,15,No
+285,33,Male,Pune,56,Cancelled,UPI,3,Monthly,Yes,92,30,32,2,5,32,50,20,Mobile,3,3,10,No,345,7,No
+286,53,Female,Pune,20,Active,Credit/Debit Card,6,Monthly,Yes,272,21,37,17,5,21,25,10,Mobile,5,2,7,Yes,125,4,Yes
+287,23,Male,Pune,50,Active,Credit/Debit Card,0,Monthly,Yes,99,8,40,6,0,14,20,3,Mobile,4,2,1,No,431,9,No
+288,43,Female,Ahmedabad,46,Active,UPI,7,Monthly,No,300,14,27,6,3,29,6,21,Mobile,2,5,2,No,248,3,Yes
+289,39,Female,Hyderabad,30,Cancelled,UPI,2,Quarterly,No,190,37,33,11,8,25,33,14,Mobile,1,2,13,Yes,261,1,No
+290,23,Male,Bangalore,44,Active,UPI,6,Quarterly,No,30,22,1,11,8,24,7,25,Mobile,3,4,12,Yes,89,12,Yes
+291,22,Male,Kolkata,25,Active,UPI,15,Quarterly,No,34,23,15,5,3,34,31,14,Desktop,3,2,1,No,16,0,Yes
+292,52,Male,Ahmedabad,41,Active,Credit/Debit Card,11,Monthly,Yes,263,55,2,15,0,36,18,13,Desktop,3,1,2,No,418,9,No
+293,57,Female,Mumbai,60,Active,UPI,8,Quarterly,Yes,229,57,32,1,3,60,24,0,Desktop,1,4,8,No,275,10,No
+294,27,Male,Hyderabad,45,Active,UPI,13,Quarterly,Yes,187,21,18,15,4,29,50,20,Mobile,1,2,3,No,212,5,No
+295,24,Female,Pune,19,Active,Net Banking,8,Monthly,Yes,6,29,31,18,8,57,40,5,Mobile,3,4,11,No,385,13,No
+296,25,Female,Ahmedabad,38,Cancelled,UPI,14,Quarterly,Yes,164,54,7,10,7,35,36,16,Mobile,4,0,14,No,329,3,Yes
+297,31,Male,Bangalore,18,Active,Credit/Debit Card,8,Monthly,No,56,48,10,3,3,40,49,11,Mobile,3,3,0,Yes,24,12,No
+298,60,Female,Hyderabad,55,Active,Net Banking,1,Monthly,Yes,148,80,5,13,7,48,27,0,Mobile,4,2,12,Yes,465,0,Yes
+299,28,Male,Hyderabad,4,Active,Credit/Debit Card,1,Yearly,No,105,80,2,20,10,34,41,15,Desktop,1,4,11,No,336,5,Yes
+300,40,Male,Mumbai,51,Active,Credit/Debit Card,4,Monthly,Yes,216,59,10,3,7,14,36,4,Mobile,5,3,7,Yes,52,7,Yes
+301,31,Male,Hyderabad,45,Active,UPI,11,Monthly,No,165,71,14,0,9,44,5,24,Mobile,2,2,7,No,124,8,No
+302,43,Female,Bangalore,35,Active,UPI,15,Quarterly,No,268,67,8,10,6,21,48,22,Tablet,5,0,9,Yes,447,9,No
+303,56,Female,Kolkata,55,Cancelled,Credit/Debit Card,1,Monthly,No,34,52,39,14,0,8,3,17,Mobile,1,1,15,Yes,199,0,Yes
+304,34,Male,Bangalore,9,Cancelled,UPI,10,Monthly,Yes,33,29,6,2,3,39,1,18,Mobile,5,3,8,Yes,497,7,Yes
+305,33,Male,Ahmedabad,2,Active,Net Banking,1,Monthly,Yes,17,49,5,5,3,54,21,0,Desktop,5,1,4,Yes,116,14,No
+306,48,Female,Chennai,7,Active,Credit/Debit Card,9,Monthly,No,260,74,15,4,2,56,6,23,Mobile,5,0,5,Yes,325,15,Yes
+307,53,Female,Bangalore,40,Active,UPI,8,Monthly,No,100,53,25,10,4,11,2,1,Desktop,3,3,11,Yes,238,8,No
+308,25,Female,Chennai,21,Active,UPI,10,Quarterly,No,11,71,32,10,10,21,9,24,Desktop,2,0,11,Yes,155,13,No
+309,18,Male,Mumbai,59,Active,UPI,11,Monthly,Yes,61,22,28,6,8,43,24,20,Mobile,5,0,4,No,413,4,No
+310,33,Female,Bangalore,57,Cancelled,Credit/Debit Card,8,Quarterly,Yes,96,9,19,19,2,8,19,17,Mobile,1,2,10,Yes,328,2,Yes
+311,21,Female,Bangalore,20,Cancelled,Net Banking,2,Quarterly,Yes,113,57,21,7,4,21,9,0,Mobile,2,5,1,Yes,20,12,Yes
+312,60,Female,Chennai,47,Active,UPI,15,Monthly,Yes,257,7,27,4,3,17,46,8,Mobile,4,2,2,No,205,11,Yes
+313,51,Male,Kolkata,13,Active,UPI,2,Yearly,Yes,88,44,15,6,6,19,22,7,Tablet,5,0,15,No,377,3,Yes
+314,25,Female,Ahmedabad,53,Active,UPI,14,Monthly,No,105,66,30,18,2,60,42,26,Tablet,3,5,13,No,45,7,No
+315,29,Male,Ahmedabad,17,Cancelled,UPI,12,Quarterly,No,127,77,5,5,0,33,18,8,Mobile,1,0,5,Yes,395,14,Yes
+316,45,Male,Hyderabad,56,Cancelled,UPI,0,Monthly,Yes,65,45,29,1,8,21,10,11,Mobile,4,5,0,No,352,1,Yes
+317,18,Male,Pune,37,Active,Credit/Debit Card,5,Quarterly,Yes,208,54,15,7,4,20,38,28,Mobile,3,0,0,No,396,12,No
+318,51,Female,Ahmedabad,13,Cancelled,UPI,14,Monthly,Yes,284,74,5,16,10,56,17,25,Mobile,2,5,7,No,228,13,Yes
+319,25,Female,Ahmedabad,47,Active,Net Banking,0,Monthly,Yes,169,10,30,7,0,48,36,29,Mobile,1,4,1,No,145,2,No
+320,26,Male,Bangalore,41,Active,UPI,10,Monthly,Yes,230,23,11,9,1,44,36,30,Mobile,5,3,5,No,259,8,Yes
+321,40,Male,Pune,20,Active,Credit/Debit Card,8,Quarterly,No,57,9,22,3,0,29,44,20,Mobile,2,2,2,No,73,12,Yes
+322,31,Male,Ahmedabad,5,Cancelled,Credit/Debit Card,6,Monthly,Yes,218,19,23,15,8,57,45,1,Mobile,2,0,1,No,434,15,Yes
+323,44,Male,Bangalore,53,Cancelled,Net Banking,2,Monthly,Yes,73,48,39,5,8,17,47,28,Desktop,1,5,9,Yes,121,15,Yes
+324,52,Male,Pune,30,Active,UPI,10,Yearly,No,111,46,20,14,1,28,19,10,Mobile,1,0,5,Yes,190,3,Yes
+325,60,Female,Kolkata,5,Cancelled,Net Banking,4,Monthly,Yes,258,61,19,16,4,13,13,0,Mobile,4,2,3,Yes,10,14,Yes
+326,36,Female,Hyderabad,53,Cancelled,UPI,11,Monthly,No,151,13,36,17,5,27,36,25,Mobile,1,4,0,No,170,2,No
+327,26,Male,Hyderabad,22,Active,Credit/Debit Card,6,Monthly,Yes,125,68,5,1,10,15,43,29,Tablet,2,1,4,Yes,307,2,No
+328,44,Male,Bangalore,55,Active,UPI,15,Quarterly,Yes,248,61,20,13,2,32,13,19,Mobile,5,5,7,No,102,7,Yes
+329,39,Male,Mumbai,57,Active,Credit/Debit Card,2,Yearly,No,246,51,33,18,0,6,21,26,Mobile,1,5,2,No,230,4,No
+330,51,Female,Mumbai,28,Cancelled,UPI,9,Quarterly,Yes,136,66,22,9,7,40,50,17,Tablet,2,5,0,Yes,334,6,No
+331,35,Female,Hyderabad,10,Active,UPI,10,Monthly,Yes,158,67,1,13,5,34,10,10,Mobile,5,0,0,Yes,121,0,Yes
+332,28,Male,Hyderabad,44,Active,Credit/Debit Card,12,Monthly,Yes,186,75,18,15,5,43,17,15,Mobile,2,4,10,Yes,85,5,Yes
+333,19,Male,Pune,4,Active,UPI,15,Monthly,No,18,25,6,12,4,33,16,11,Desktop,3,1,7,No,354,2,No
+334,41,Male,Chennai,1,Cancelled,UPI,8,Monthly,No,17,49,24,0,1,10,10,9,Mobile,3,5,13,Yes,292,13,Yes
+335,34,Male,Pune,59,Active,UPI,14,Monthly,No,84,20,15,0,6,38,33,28,Mobile,3,1,8,Yes,306,1,No
+336,25,Male,Ahmedabad,36,Active,UPI,5,Monthly,No,133,74,9,19,7,40,6,24,Mobile,5,0,11,No,444,11,Yes
+337,25,Male,Ahmedabad,55,Active,UPI,5,Quarterly,No,30,25,38,5,6,24,22,21,Mobile,2,0,12,Yes,214,12,No
+338,30,Female,Ahmedabad,13,Cancelled,UPI,12,Monthly,No,60,70,33,15,3,7,22,15,Tablet,4,5,9,Yes,307,3,Yes
+339,34,Male,Hyderabad,60,Active,UPI,3,Quarterly,No,226,75,24,15,6,36,3,30,Mobile,4,5,4,Yes,365,13,No
+340,38,Female,Bangalore,14,Active,UPI,1,Yearly,No,35,22,4,11,8,6,3,3,Mobile,4,5,9,No,67,11,No
+341,59,Female,Hyderabad,40,Active,Net Banking,2,Yearly,Yes,151,19,22,18,9,60,13,5,Mobile,3,2,15,No,393,15,Yes
+342,31,Female,Ahmedabad,46,Active,UPI,15,Yearly,No,34,52,24,18,2,51,29,7,Mobile,5,1,3,Yes,334,13,Yes
+343,33,Female,Pune,36,Active,Net Banking,5,Quarterly,Yes,165,72,35,14,10,36,33,26,Mobile,2,4,2,Yes,467,0,Yes
+344,18,Female,Bangalore,27,Active,UPI,9,Quarterly,Yes,215,70,23,13,6,13,31,27,Desktop,3,4,12,Yes,401,4,Yes
+345,37,Female,Mumbai,35,Cancelled,Net Banking,1,Monthly,No,255,60,39,9,10,49,12,21,Mobile,3,5,15,Yes,350,8,Yes
+346,39,Male,Chennai,6,Cancelled,UPI,14,Quarterly,Yes,290,9,23,0,7,45,34,12,Desktop,5,1,12,No,54,11,Yes
+347,22,Female,Bangalore,4,Active,UPI,13,Monthly,Yes,75,26,1,3,8,51,17,29,Mobile,1,2,6,Yes,100,9,Yes
+348,57,Female,Bangalore,31,Active,UPI,6,Monthly,Yes,94,38,8,9,9,12,7,2,Mobile,1,1,6,No,159,12,No
+349,56,Male,Kolkata,21,Active,Credit/Debit Card,6,Monthly,No,299,76,37,14,3,21,45,19,Mobile,4,2,12,No,193,14,Yes
+350,40,Male,Hyderabad,60,Active,UPI,2,Monthly,Yes,228,43,11,15,5,24,5,18,Mobile,3,3,10,No,172,7,Yes
+351,30,Male,Kolkata,21,Active,Credit/Debit Card,8,Monthly,Yes,78,72,24,7,8,43,24,0,Mobile,4,0,8,No,26,2,No
+352,49,Female,Ahmedabad,18,Cancelled,UPI,10,Monthly,Yes,58,23,25,9,9,47,19,11,Mobile,5,5,9,No,6,12,No
+353,50,Male,Mumbai,43,Active,UPI,8,Monthly,No,18,16,16,7,3,42,43,19,Mobile,5,0,6,No,145,1,Yes
+354,49,Male,Ahmedabad,7,Cancelled,UPI,8,Monthly,Yes,267,62,4,16,10,45,38,22,Mobile,4,5,1,Yes,337,4,No
+355,23,Male,Mumbai,28,Active,Credit/Debit Card,4,Yearly,Yes,18,78,17,14,1,25,28,14,Desktop,3,2,6,Yes,192,1,Yes
+356,51,Female,Chennai,40,Active,Net Banking,3,Monthly,Yes,168,12,21,9,6,45,50,14,Mobile,5,3,12,No,157,10,Yes
+357,32,Female,Mumbai,17,Cancelled,Credit/Debit Card,9,Monthly,No,75,11,24,9,5,21,28,30,Mobile,3,2,7,No,42,14,No
+358,24,Female,Hyderabad,24,Active,UPI,8,Quarterly,No,216,14,39,18,9,45,46,1,Mobile,1,3,11,No,272,4,Yes
+359,28,Female,Bangalore,23,Active,Credit/Debit Card,9,Monthly,No,59,9,11,11,0,44,37,22,Mobile,3,0,0,Yes,365,6,No
+360,24,Female,Ahmedabad,44,Active,UPI,4,Monthly,Yes,170,32,29,18,10,40,21,18,Mobile,4,1,15,No,271,10,No
+361,50,Female,Ahmedabad,21,Active,Credit/Debit Card,8,Monthly,Yes,77,54,30,12,1,48,48,5,Mobile,4,4,11,Yes,404,8,Yes
+362,44,Male,Kolkata,58,Active,Credit/Debit Card,10,Quarterly,No,63,38,30,19,4,8,47,18,Desktop,5,1,15,Yes,138,13,Yes
+363,53,Male,Mumbai,3,Active,UPI,8,Yearly,No,292,46,23,18,1,33,18,17,Tablet,2,0,12,No,174,6,Yes
+364,41,Male,Chennai,12,Cancelled,Credit/Debit Card,12,Yearly,No,91,15,4,13,9,58,7,7,Mobile,3,0,4,No,233,13,Yes
+365,45,Male,Kolkata,25,Active,Credit/Debit Card,1,Yearly,Yes,92,60,29,17,10,11,26,14,Desktop,2,5,12,Yes,153,6,No
+366,31,Female,Hyderabad,35,Active,Credit/Debit Card,5,Monthly,No,34,20,19,4,6,23,19,23,Mobile,5,0,11,Yes,222,3,No
+367,28,Male,Kolkata,24,Active,Credit/Debit Card,13,Monthly,Yes,35,19,4,0,4,48,49,23,Desktop,4,5,6,No,141,5,Yes
+368,42,Male,Chennai,57,Active,Net Banking,10,Monthly,Yes,235,44,38,20,2,14,43,26,Desktop,1,4,9,Yes,122,0,No
+369,56,Male,Mumbai,44,Active,UPI,11,Monthly,Yes,119,10,35,0,0,51,40,29,Desktop,3,3,7,No,151,13,Yes
+370,54,Male,Ahmedabad,21,Active,UPI,13,Monthly,Yes,147,25,36,20,2,24,44,14,Tablet,1,4,9,No,65,5,Yes
+371,33,Male,Bangalore,44,Cancelled,UPI,0,Monthly,Yes,158,42,30,9,5,15,10,6,Mobile,5,1,8,Yes,262,7,No
+372,39,Female,Ahmedabad,31,Active,UPI,13,Yearly,No,258,59,13,3,10,38,34,11,Mobile,2,5,12,No,258,7,Yes
+373,56,Male,Hyderabad,3,Active,UPI,0,Yearly,No,19,7,29,7,5,44,31,5,Mobile,5,1,8,Yes,140,10,No
+374,37,Female,Pune,24,Cancelled,UPI,4,Monthly,No,250,5,1,18,1,41,35,13,Mobile,1,5,13,No,282,8,No
+375,48,Male,Kolkata,29,Active,UPI,8,Monthly,No,241,18,33,16,1,16,13,21,Tablet,1,0,11,No,228,6,Yes
+376,60,Female,Bangalore,49,Active,Net Banking,10,Monthly,Yes,177,9,20,12,4,58,1,12,Mobile,2,3,2,Yes,68,13,Yes
+377,22,Female,Bangalore,26,Active,UPI,15,Quarterly,Yes,266,22,37,18,0,32,44,1,Mobile,4,4,11,Yes,177,6,Yes
+378,41,Male,Chennai,4,Active,Credit/Debit Card,3,Monthly,No,270,74,1,17,4,15,13,30,Desktop,1,0,8,No,367,6,No
+379,28,Female,Pune,26,Active,UPI,15,Quarterly,Yes,24,79,8,0,10,34,30,30,Mobile,4,1,13,Yes,475,13,Yes
+380,49,Female,Hyderabad,40,Active,Net Banking,10,Quarterly,No,271,27,27,13,1,36,8,15,Mobile,4,2,14,Yes,479,11,Yes
+381,55,Female,Kolkata,50,Cancelled,Credit/Debit Card,9,Monthly,No,32,17,10,1,4,5,21,9,Mobile,2,4,9,No,460,4,Yes
+382,26,Female,Bangalore,19,Active,Net Banking,1,Quarterly,Yes,154,61,25,8,9,16,12,5,Mobile,4,5,4,Yes,64,15,Yes
+383,32,Male,Hyderabad,22,Active,Net Banking,0,Yearly,Yes,272,54,27,3,0,13,39,3,Mobile,2,4,13,Yes,448,0,Yes
+384,28,Male,Mumbai,20,Active,UPI,10,Monthly,No,52,5,30,7,5,43,32,26,Mobile,2,3,11,Yes,286,13,No
+385,31,Female,Kolkata,36,Cancelled,Credit/Debit Card,4,Monthly,Yes,285,77,30,13,8,19,17,11,Mobile,4,3,6,No,226,7,No
+386,37,Female,Mumbai,2,Active,UPI,0,Monthly,No,156,56,6,18,9,23,26,27,Mobile,3,0,3,No,262,8,Yes
+387,35,Female,Bangalore,25,Active,Net Banking,13,Quarterly,Yes,201,48,31,13,5,16,9,19,Mobile,5,0,14,No,415,10,No
+388,48,Male,Pune,21,Cancelled,Net Banking,11,Monthly,Yes,184,58,33,20,2,40,0,20,Mobile,2,5,6,Yes,297,13,No
+389,48,Female,Kolkata,4,Cancelled,Credit/Debit Card,10,Monthly,No,294,70,35,15,9,10,14,16,Desktop,2,1,4,No,243,13,No
+390,18,Female,Kolkata,58,Cancelled,UPI,4,Monthly,Yes,171,12,26,20,6,23,47,28,Mobile,3,5,0,No,136,11,No
+391,29,Male,Pune,20,Active,Net Banking,6,Yearly,No,84,11,12,7,3,44,50,25,Tablet,1,1,15,Yes,1,12,Yes
+392,29,Female,Ahmedabad,26,Cancelled,UPI,14,Monthly,Yes,186,10,10,5,10,36,17,30,Mobile,3,2,9,Yes,391,13,No
+393,38,Female,Pune,22,Active,Credit/Debit Card,0,Monthly,Yes,291,54,29,2,7,7,34,14,Mobile,5,5,6,Yes,30,7,Yes
+394,53,Female,Chennai,41,Cancelled,Credit/Debit Card,11,Monthly,No,14,42,31,2,1,45,44,27,Mobile,2,0,11,Yes,267,4,No
+395,41,Female,Mumbai,57,Active,Net Banking,6,Monthly,No,76,59,6,5,7,21,3,19,Tablet,3,1,0,No,136,3,No
+396,36,Female,Chennai,3,Cancelled,Credit/Debit Card,11,Yearly,Yes,182,65,9,10,6,9,49,24,Mobile,4,1,5,No,266,10,No
+397,21,Female,Kolkata,30,Cancelled,UPI,10,Monthly,Yes,274,25,32,14,1,37,15,25,Mobile,4,2,6,No,186,11,No
+398,49,Female,Mumbai,39,Cancelled,Credit/Debit Card,6,Quarterly,Yes,141,9,18,13,8,19,34,11,Mobile,5,4,14,Yes,320,4,No
+399,26,Male,Mumbai,56,Cancelled,Credit/Debit Card,5,Quarterly,No,291,12,1,2,7,30,15,1,Mobile,3,1,11,Yes,245,1,No
+400,31,Female,Chennai,21,Active,Credit/Debit Card,0,Monthly,No,95,40,18,6,2,25,28,13,Mobile,3,3,3,Yes,381,14,Yes
+401,50,Female,Bangalore,28,Active,UPI,7,Monthly,No,143,21,17,11,4,27,15,29,Mobile,5,0,3,No,429,0,Yes
+402,51,Male,Bangalore,26,Active,Net Banking,9,Monthly,Yes,10,50,9,7,5,5,29,16,Mobile,4,5,6,No,104,15,Yes
+403,56,Female,Pune,50,Active,Credit/Debit Card,2,Monthly,Yes,90,73,32,6,3,17,16,14,Mobile,4,3,12,No,290,0,No
+404,33,Male,Ahmedabad,24,Cancelled,UPI,7,Yearly,No,285,59,38,20,0,32,43,30,Desktop,5,2,7,No,317,10,No
+405,59,Male,Mumbai,34,Cancelled,Credit/Debit Card,4,Monthly,Yes,51,47,38,1,1,6,16,24,Mobile,3,2,0,Yes,225,11,No
+406,51,Female,Ahmedabad,22,Active,Credit/Debit Card,14,Monthly,No,76,30,18,3,6,30,45,22,Mobile,1,0,11,No,257,8,No
+407,32,Female,Pune,42,Active,UPI,4,Quarterly,Yes,213,29,39,5,5,27,36,24,Desktop,3,4,11,No,124,6,No
+408,27,Female,Bangalore,50,Cancelled,UPI,1,Monthly,No,180,68,25,3,8,33,9,13,Mobile,4,5,15,No,335,2,No
+409,48,Female,Mumbai,37,Active,Credit/Debit Card,10,Yearly,Yes,26,24,5,10,6,52,4,23,Mobile,4,4,4,Yes,477,10,No
+410,19,Female,Chennai,49,Active,Net Banking,1,Yearly,Yes,145,36,30,5,4,10,22,22,Mobile,5,2,13,No,104,0,Yes
+411,32,Female,Kolkata,3,Active,Credit/Debit Card,9,Yearly,Yes,180,48,5,5,9,20,28,19,Desktop,2,4,10,No,410,6,Yes
+412,43,Male,Hyderabad,8,Cancelled,UPI,11,Quarterly,Yes,229,25,1,2,1,28,36,2,Mobile,3,0,6,Yes,487,6,Yes
+413,54,Male,Chennai,44,Active,Net Banking,4,Monthly,Yes,86,11,31,11,4,41,34,5,Mobile,4,4,12,Yes,448,11,No
+414,51,Male,Bangalore,58,Active,Credit/Debit Card,6,Monthly,No,175,25,22,19,0,41,4,17,Desktop,2,3,9,Yes,137,5,No
+415,51,Female,Kolkata,53,Active,UPI,2,Monthly,Yes,187,69,30,3,3,12,33,23,Mobile,1,4,13,Yes,490,6,No
+416,29,Female,Pune,23,Active,Credit/Debit Card,3,Monthly,Yes,127,46,2,2,9,50,2,19,Mobile,5,1,1,No,332,9,No
+417,57,Male,Mumbai,21,Active,UPI,14,Quarterly,No,281,60,27,0,4,40,20,2,Mobile,3,3,7,Yes,381,14,No
+418,57,Male,Bangalore,53,Active,Net Banking,9,Monthly,No,73,10,12,11,5,10,49,14,Mobile,2,5,1,No,82,7,No
+419,60,Female,Hyderabad,49,Active,Credit/Debit Card,14,Yearly,No,24,39,34,6,7,21,43,0,Mobile,4,1,4,No,488,1,Yes
+420,41,Male,Hyderabad,7,Active,UPI,11,Monthly,Yes,29,49,11,6,6,18,45,22,Mobile,2,3,9,Yes,241,13,No
+421,27,Male,Mumbai,20,Active,UPI,10,Monthly,No,172,35,32,10,2,32,8,15,Mobile,2,4,9,Yes,300,15,No
+422,29,Female,Pune,14,Cancelled,UPI,12,Quarterly,No,290,70,32,2,6,24,27,29,Desktop,1,0,8,Yes,48,8,No
+423,54,Male,Hyderabad,16,Active,Credit/Debit Card,14,Monthly,Yes,259,71,32,17,0,20,50,14,Mobile,2,2,2,Yes,258,9,No
+424,56,Female,Hyderabad,59,Active,Credit/Debit Card,7,Monthly,Yes,117,52,2,20,3,15,29,19,Tablet,1,2,5,No,292,6,No
+425,52,Male,Bangalore,13,Active,UPI,12,Quarterly,No,15,50,22,16,9,24,30,20,Mobile,1,1,4,Yes,150,11,Yes
+426,31,Male,Kolkata,33,Active,UPI,7,Quarterly,No,288,33,12,8,10,9,39,19,Mobile,1,0,14,No,330,13,Yes
+427,49,Female,Hyderabad,47,Active,UPI,11,Monthly,Yes,120,15,29,16,8,34,36,14,Mobile,2,5,6,No,70,6,Yes
+428,54,Male,Mumbai,5,Active,Net Banking,13,Quarterly,No,199,68,5,14,3,56,0,30,Mobile,5,0,9,No,360,9,Yes
+429,43,Male,Mumbai,43,Active,UPI,10,Quarterly,Yes,34,73,26,17,9,36,29,15,Mobile,3,5,14,No,185,9,Yes
+430,21,Male,Mumbai,28,Active,UPI,10,Monthly,Yes,187,65,31,3,8,21,32,16,Mobile,4,5,2,Yes,165,14,No
+431,51,Male,Ahmedabad,22,Active,Net Banking,12,Quarterly,No,48,74,1,11,1,10,1,12,Tablet,4,3,1,Yes,469,5,No
+432,22,Male,Kolkata,50,Cancelled,Credit/Debit Card,6,Yearly,No,203,42,14,18,7,30,26,25,Mobile,2,1,3,No,179,7,Yes
+433,44,Male,Ahmedabad,37,Cancelled,Credit/Debit Card,5,Yearly,No,96,10,22,14,0,22,34,2,Mobile,1,4,4,No,457,13,No
+434,30,Male,Hyderabad,58,Active,UPI,13,Monthly,No,14,75,18,4,8,27,20,17,Mobile,1,2,3,Yes,467,12,No
+435,23,Female,Pune,53,Active,Net Banking,7,Quarterly,No,243,64,18,19,10,11,6,10,Mobile,3,1,7,Yes,434,5,No
+436,56,Male,Ahmedabad,4,Active,UPI,0,Monthly,No,60,32,39,18,5,46,9,5,Tablet,3,1,7,No,329,0,Yes
+437,18,Female,Bangalore,23,Active,UPI,11,Monthly,No,251,28,9,10,5,27,24,3,Desktop,1,5,13,No,192,14,No
+438,51,Male,Kolkata,16,Active,Net Banking,8,Monthly,Yes,145,38,32,10,7,24,24,21,Mobile,2,5,12,Yes,439,15,No
+439,43,Female,Pune,36,Active,Credit/Debit Card,8,Monthly,Yes,216,42,40,19,4,8,29,17,Mobile,5,4,14,Yes,99,15,No
+440,50,Male,Mumbai,44,Active,UPI,4,Quarterly,No,130,58,24,2,10,7,39,25,Mobile,1,4,10,Yes,163,4,Yes
+441,46,Male,Hyderabad,44,Active,UPI,8,Quarterly,Yes,217,56,21,3,5,43,20,29,Mobile,5,4,8,No,382,8,No
+442,37,Male,Bangalore,55,Active,Credit/Debit Card,15,Quarterly,Yes,296,64,33,9,5,36,20,9,Desktop,5,4,8,No,424,10,No
+443,33,Male,Kolkata,40,Cancelled,UPI,7,Monthly,Yes,206,11,24,5,2,60,8,17,Tablet,3,2,13,Yes,227,1,Yes
+444,27,Male,Ahmedabad,42,Active,Net Banking,6,Yearly,Yes,208,26,25,12,3,58,27,3,Tablet,3,2,7,Yes,486,3,Yes
+445,51,Female,Chennai,28,Active,Net Banking,6,Monthly,No,160,53,17,0,4,33,34,11,Mobile,2,4,2,No,444,13,Yes
+446,35,Male,Hyderabad,51,Active,Net Banking,9,Yearly,Yes,278,79,30,14,4,18,8,14,Mobile,5,5,0,Yes,311,6,Yes
+447,35,Female,Pune,12,Active,Credit/Debit Card,10,Quarterly,Yes,45,70,38,18,4,29,31,24,Mobile,3,1,5,Yes,150,14,Yes
+448,26,Female,Ahmedabad,58,Active,Net Banking,15,Yearly,No,283,13,33,15,9,37,46,12,Desktop,5,0,0,Yes,143,14,Yes
+449,45,Female,Bangalore,5,Cancelled,Net Banking,5,Monthly,No,264,16,11,6,1,58,37,26,Tablet,3,2,9,Yes,268,0,No
+450,42,Female,Hyderabad,24,Active,UPI,7,Quarterly,Yes,205,63,6,13,3,24,6,23,Tablet,5,4,1,No,415,3,No
+451,47,Female,Bangalore,39,Active,UPI,9,Yearly,No,58,50,11,16,6,57,10,21,Mobile,1,3,8,Yes,317,9,Yes
+452,25,Male,Kolkata,9,Cancelled,UPI,7,Yearly,No,234,52,8,0,6,5,38,15,Desktop,5,2,6,No,263,14,Yes
+453,52,Male,Pune,29,Active,Net Banking,15,Monthly,No,152,76,12,19,4,54,30,4,Desktop,5,3,5,Yes,236,4,Yes
+454,46,Female,Kolkata,5,Active,UPI,1,Monthly,Yes,142,59,40,9,1,10,43,17,Mobile,5,2,8,Yes,188,4,No
+455,23,Female,Pune,51,Active,UPI,4,Monthly,No,80,31,19,5,0,33,16,14,Desktop,4,0,7,No,308,14,Yes
+456,44,Female,Mumbai,18,Cancelled,Credit/Debit Card,13,Quarterly,No,42,30,37,20,5,25,49,6,Mobile,2,3,14,Yes,493,10,Yes
+457,40,Female,Mumbai,2,Active,Net Banking,0,Monthly,Yes,211,12,36,16,5,33,21,13,Mobile,2,3,3,No,253,13,No
+458,57,Female,Bangalore,12,Active,UPI,15,Quarterly,No,228,60,6,10,1,26,33,4,Mobile,1,3,7,Yes,364,6,No
+459,42,Male,Ahmedabad,6,Active,Net Banking,8,Quarterly,Yes,207,52,2,5,3,17,30,28,Mobile,3,4,14,Yes,411,10,Yes
+460,34,Male,Bangalore,26,Cancelled,Net Banking,11,Yearly,Yes,264,8,39,11,5,51,49,17,Desktop,5,2,12,No,349,0,Yes
+461,41,Female,Pune,32,Active,UPI,12,Monthly,Yes,161,15,12,16,9,30,50,2,Tablet,1,1,15,No,209,6,Yes
+462,49,Female,Hyderabad,5,Active,Credit/Debit Card,13,Yearly,Yes,23,66,39,8,4,16,28,4,Mobile,3,1,8,No,53,8,No
+463,51,Female,Bangalore,45,Cancelled,UPI,5,Monthly,Yes,217,60,12,17,5,50,47,26,Mobile,1,3,2,No,216,9,Yes
+464,40,Male,Mumbai,49,Active,Credit/Debit Card,8,Monthly,Yes,226,36,3,13,7,20,7,27,Tablet,1,4,5,Yes,262,3,No
+465,54,Female,Bangalore,3,Active,Credit/Debit Card,9,Monthly,Yes,293,58,22,2,6,22,30,15,Mobile,5,2,0,No,480,8,Yes
+466,56,Female,Ahmedabad,20,Active,UPI,15,Monthly,Yes,149,70,19,9,8,25,38,22,Mobile,4,5,3,Yes,376,6,Yes
+467,41,Male,Chennai,17,Active,UPI,3,Monthly,No,62,5,14,11,7,35,33,6,Desktop,2,3,1,Yes,327,0,Yes
+468,23,Male,Pune,41,Active,UPI,10,Monthly,No,206,36,15,6,6,54,12,23,Mobile,1,3,13,No,34,5,No
+469,50,Male,Kolkata,18,Active,UPI,2,Monthly,Yes,277,37,17,0,10,59,27,5,Mobile,3,5,0,Yes,461,11,No
+470,26,Male,Pune,42,Active,UPI,11,Monthly,No,73,42,33,5,0,28,27,10,Mobile,1,3,7,Yes,178,3,No
+471,37,Male,Chennai,41,Active,Credit/Debit Card,10,Yearly,Yes,225,79,1,9,4,58,23,30,Mobile,2,1,11,Yes,91,3,Yes
+472,41,Male,Kolkata,44,Active,Credit/Debit Card,9,Monthly,No,52,53,9,4,4,28,38,14,Desktop,3,0,7,No,180,6,Yes
+473,23,Female,Pune,47,Active,UPI,4,Quarterly,Yes,95,72,29,10,7,21,26,16,Mobile,2,5,12,No,165,8,Yes
+474,52,Male,Bangalore,44,Active,UPI,6,Yearly,Yes,30,61,16,19,7,54,35,26,Desktop,3,2,5,Yes,294,7,Yes
+475,36,Male,Mumbai,23,Cancelled,UPI,5,Monthly,Yes,211,58,6,10,0,51,33,14,Desktop,4,1,10,Yes,320,5,Yes
+476,33,Male,Ahmedabad,51,Active,UPI,11,Monthly,Yes,13,54,6,11,4,12,34,6,Desktop,3,5,6,No,165,0,Yes
+477,37,Female,Chennai,6,Active,Credit/Debit Card,5,Yearly,Yes,34,10,18,19,6,47,32,2,Mobile,1,0,12,No,146,10,No
+478,53,Female,Ahmedabad,28,Active,UPI,11,Monthly,No,251,19,12,2,3,11,29,19,Desktop,3,3,5,Yes,152,6,No
+479,32,Female,Ahmedabad,14,Active,UPI,8,Monthly,No,271,59,22,20,7,36,23,17,Desktop,4,0,12,No,225,11,No
+480,60,Female,Bangalore,57,Active,Credit/Debit Card,7,Yearly,Yes,51,43,34,15,5,51,3,28,Desktop,2,2,11,Yes,173,15,No
+481,40,Female,Chennai,7,Active,UPI,3,Monthly,No,286,25,4,10,4,56,2,16,Mobile,2,4,0,Yes,307,11,No
+482,58,Male,Pune,11,Active,UPI,8,Monthly,Yes,161,48,28,20,8,34,26,9,Mobile,5,4,11,No,128,0,No
+483,51,Male,Chennai,19,Active,UPI,12,Yearly,Yes,181,66,1,15,1,35,9,8,Tablet,3,4,3,No,430,6,Yes
+484,24,Female,Mumbai,44,Active,UPI,4,Quarterly,Yes,7,35,9,11,8,52,0,21,Mobile,5,2,14,No,46,7,No
+485,38,Female,Chennai,18,Active,UPI,7,Monthly,Yes,129,62,36,16,6,26,9,29,Mobile,5,3,6,No,220,8,No
+486,19,Female,Hyderabad,32,Active,UPI,15,Monthly,No,246,61,2,20,9,10,3,2,Mobile,4,1,6,No,243,8,No
+487,38,Female,Bangalore,43,Cancelled,Credit/Debit Card,14,Monthly,No,35,8,1,18,4,19,46,4,Mobile,3,3,6,Yes,414,15,Yes
+488,44,Male,Bangalore,32,Active,Net Banking,4,Monthly,Yes,170,43,24,6,9,14,26,3,Desktop,3,5,4,Yes,224,7,No
+489,52,Female,Mumbai,49,Cancelled,UPI,15,Monthly,Yes,176,78,23,14,10,14,47,6,Desktop,1,1,5,No,26,0,Yes
+490,50,Male,Chennai,48,Active,UPI,12,Quarterly,Yes,192,15,20,20,9,32,45,8,Mobile,5,1,15,No,472,4,Yes
+491,59,Male,Pune,59,Active,UPI,4,Monthly,Yes,250,27,7,3,1,10,21,27,Tablet,2,4,4,Yes,338,2,No
+492,31,Female,Mumbai,32,Active,UPI,9,Yearly,No,34,26,15,19,5,25,44,21,Desktop,1,2,6,Yes,493,15,No
+493,44,Male,Ahmedabad,59,Active,Credit/Debit Card,11,Monthly,Yes,116,51,8,19,6,8,37,30,Desktop,1,4,10,No,71,2,Yes
+494,59,Female,Kolkata,33,Active,Credit/Debit Card,15,Yearly,Yes,82,10,23,0,4,28,23,3,Mobile,5,4,5,No,223,4,No
+495,31,Male,Mumbai,28,Active,Credit/Debit Card,8,Monthly,No,288,50,37,16,2,54,13,3,Mobile,5,2,9,No,201,1,No
+496,45,Female,Pune,43,Cancelled,UPI,11,Monthly,Yes,42,15,24,2,9,46,46,29,Mobile,4,4,11,Yes,21,9,Yes
+497,58,Male,Hyderabad,40,Active,UPI,11,Monthly,No,111,63,35,7,0,36,6,26,Tablet,2,3,1,No,463,15,No
+498,38,Male,Mumbai,35,Active,Net Banking,2,Monthly,Yes,286,12,18,8,6,16,23,1,Mobile,5,4,6,Yes,372,6,Yes
+499,46,Male,Pune,14,Active,Credit/Debit Card,0,Quarterly,Yes,95,18,10,5,4,27,7,23,Mobile,3,5,5,No,345,7,No
+500,29,Female,Chennai,16,Active,UPI,10,Monthly,Yes,187,22,23,19,8,20,2,20,Mobile,3,4,6,No,152,11,No
+501,52,Female,Chennai,59,Active,Net Banking,2,Quarterly,No,282,62,1,3,4,48,19,22,Desktop,3,4,13,No,401,11,Yes
+502,28,Female,Mumbai,36,Active,UPI,8,Monthly,Yes,159,79,5,16,5,38,3,29,Desktop,4,5,9,Yes,218,5,Yes
+503,29,Male,Pune,25,Active,UPI,10,Monthly,Yes,81,80,31,6,0,31,21,5,Mobile,4,2,6,No,465,13,Yes
+504,27,Female,Pune,24,Active,Credit/Debit Card,3,Quarterly,No,282,74,37,19,9,20,7,28,Desktop,3,4,0,No,125,11,No
+505,41,Male,Bangalore,26,Cancelled,Credit/Debit Card,10,Monthly,No,287,39,9,17,8,35,1,17,Mobile,1,3,2,Yes,49,15,Yes
+506,31,Female,Pune,51,Active,UPI,1,Yearly,No,61,10,37,12,9,9,39,29,Mobile,2,3,14,No,179,1,No
+507,18,Male,Mumbai,31,Active,UPI,11,Yearly,Yes,67,67,16,10,9,38,33,29,Mobile,3,5,5,Yes,390,1,No
+508,56,Male,Pune,36,Active,UPI,4,Quarterly,No,241,49,22,12,1,28,46,9,Mobile,5,3,2,Yes,262,8,Yes
+509,45,Male,Pune,39,Active,Net Banking,1,Yearly,No,279,64,33,6,10,36,11,6,Mobile,2,5,2,No,456,4,No
+510,40,Female,Ahmedabad,30,Active,Credit/Debit Card,13,Yearly,No,238,70,23,6,5,36,31,30,Mobile,3,1,10,No,223,12,No
+511,37,Female,Bangalore,59,Active,UPI,11,Yearly,No,206,38,18,4,1,30,35,27,Desktop,3,1,15,No,50,10,No
+512,42,Female,Hyderabad,60,Active,UPI,10,Quarterly,No,205,53,24,1,4,25,18,0,Mobile,5,1,15,Yes,447,5,No
+513,32,Female,Ahmedabad,56,Cancelled,Credit/Debit Card,3,Quarterly,No,196,67,13,14,1,45,14,18,Tablet,1,4,6,No,59,1,Yes
+514,41,Male,Chennai,48,Active,Credit/Debit Card,13,Monthly,Yes,48,45,5,14,5,55,44,17,Mobile,5,2,0,Yes,248,8,Yes
+515,35,Male,Hyderabad,58,Active,UPI,1,Yearly,No,242,12,17,17,4,32,36,23,Mobile,1,5,5,No,40,1,Yes
+516,26,Male,Chennai,12,Active,UPI,10,Yearly,Yes,220,63,38,15,4,36,26,14,Mobile,1,4,6,No,238,8,Yes
+517,50,Male,Kolkata,19,Active,Net Banking,9,Yearly,No,14,43,5,20,0,19,2,8,Desktop,4,2,15,No,462,0,Yes
+518,46,Male,Chennai,2,Active,UPI,12,Quarterly,No,184,27,15,13,10,33,47,7,Mobile,1,1,4,No,94,13,No
+519,43,Female,Ahmedabad,19,Active,Credit/Debit Card,8,Monthly,No,6,38,19,3,2,45,26,6,Mobile,2,3,12,Yes,13,7,No
+520,47,Male,Kolkata,43,Active,UPI,7,Quarterly,No,185,30,9,19,4,45,49,5,Mobile,1,5,4,No,145,14,Yes
+521,44,Male,Chennai,35,Cancelled,Credit/Debit Card,4,Monthly,Yes,265,31,12,7,10,31,24,29,Mobile,5,3,11,No,222,13,No
+522,55,Male,Ahmedabad,17,Active,UPI,3,Monthly,Yes,261,71,30,6,2,39,15,24,Mobile,3,3,1,No,57,12,No
+523,51,Male,Bangalore,19,Active,UPI,4,Monthly,Yes,116,29,31,13,9,32,31,14,Mobile,4,4,15,Yes,325,6,No
+524,60,Male,Kolkata,37,Active,Credit/Debit Card,5,Quarterly,Yes,240,54,6,13,9,60,4,24,Mobile,5,0,6,No,67,6,Yes
+525,41,Female,Hyderabad,17,Active,UPI,7,Quarterly,Yes,48,58,40,12,4,28,21,9,Desktop,2,4,2,Yes,243,15,Yes
+526,28,Male,Chennai,22,Active,UPI,6,Monthly,No,67,68,37,12,5,18,38,25,Mobile,4,1,9,Yes,347,4,Yes
+527,22,Female,Hyderabad,50,Active,UPI,1,Monthly,No,290,63,12,3,0,53,36,26,Mobile,4,0,5,No,414,6,No
+528,54,Female,Ahmedabad,14,Active,UPI,6,Monthly,Yes,242,75,37,10,8,15,11,21,Desktop,1,4,4,Yes,251,5,Yes
+529,30,Male,Mumbai,54,Cancelled,Net Banking,0,Monthly,Yes,280,30,15,3,7,48,4,9,Mobile,3,4,10,No,186,11,No
+530,33,Female,Bangalore,58,Cancelled,UPI,3,Monthly,Yes,43,55,3,14,2,24,4,27,Mobile,1,4,5,Yes,252,10,No
+531,46,Male,Ahmedabad,48,Active,Credit/Debit Card,8,Monthly,No,167,13,24,7,6,28,4,16,Mobile,3,2,4,Yes,180,3,No
+532,39,Male,Chennai,33,Active,UPI,3,Yearly,No,170,52,18,17,7,59,18,5,Desktop,1,0,3,No,267,10,Yes
+533,58,Male,Kolkata,57,Active,Credit/Debit Card,2,Monthly,Yes,17,28,31,12,1,38,33,7,Mobile,3,2,10,No,218,10,Yes
+534,45,Female,Hyderabad,17,Active,UPI,15,Monthly,Yes,106,16,21,3,7,37,5,17,Tablet,3,3,5,Yes,40,2,No
+535,43,Female,Mumbai,51,Cancelled,Credit/Debit Card,7,Monthly,No,128,43,37,15,9,33,39,23,Mobile,2,0,13,No,427,15,No
+536,47,Female,Bangalore,60,Active,Credit/Debit Card,15,Yearly,No,180,46,24,8,3,28,28,3,Mobile,4,2,13,Yes,420,0,Yes
+537,56,Male,Chennai,1,Active,UPI,7,Yearly,No,34,18,27,15,4,41,34,6,Mobile,2,5,3,Yes,226,5,Yes
+538,27,Male,Pune,25,Active,UPI,3,Monthly,Yes,51,59,3,6,4,5,8,11,Mobile,4,2,14,Yes,149,8,No
+539,22,Female,Pune,10,Cancelled,UPI,13,Quarterly,Yes,63,52,16,20,10,25,38,6,Mobile,1,3,14,No,318,4,Yes
+540,38,Male,Kolkata,50,Active,UPI,6,Yearly,No,83,49,12,19,2,9,12,23,Mobile,3,1,1,No,307,4,No
+541,21,Female,Hyderabad,47,Active,UPI,10,Monthly,Yes,287,24,3,9,9,15,9,14,Mobile,2,3,11,Yes,74,2,No
+542,58,Male,Ahmedabad,56,Active,UPI,7,Monthly,Yes,46,53,18,1,9,23,6,5,Mobile,4,3,13,Yes,78,12,Yes
+543,52,Male,Mumbai,45,Active,Credit/Debit Card,4,Monthly,Yes,8,53,9,13,3,17,16,2,Mobile,2,5,11,Yes,209,7,No
+544,22,Male,Kolkata,33,Active,UPI,12,Monthly,No,33,50,7,16,10,14,31,7,Desktop,3,3,1,No,330,12,Yes
+545,42,Male,Mumbai,37,Active,UPI,3,Monthly,No,29,78,40,20,1,55,11,25,Desktop,5,4,3,No,267,1,Yes
+546,59,Male,Mumbai,12,Active,UPI,0,Monthly,No,179,44,15,5,5,40,27,26,Mobile,2,1,10,Yes,43,7,Yes
+547,26,Female,Mumbai,18,Cancelled,UPI,15,Yearly,No,184,23,35,18,0,34,7,20,Mobile,1,5,8,No,337,9,No
+548,58,Female,Pune,55,Active,Credit/Debit Card,13,Monthly,No,175,54,8,20,2,40,3,2,Tablet,5,5,6,No,303,8,No
+549,18,Female,Hyderabad,35,Cancelled,UPI,0,Monthly,No,232,22,1,7,9,37,6,26,Mobile,4,4,6,Yes,17,1,Yes
+550,54,Female,Bangalore,33,Active,UPI,15,Quarterly,Yes,229,16,18,10,7,24,39,18,Mobile,5,2,14,Yes,445,9,No
+551,36,Female,Hyderabad,4,Cancelled,Credit/Debit Card,9,Monthly,Yes,51,24,25,10,0,53,38,8,Mobile,4,0,8,No,447,8,No
+552,44,Female,Ahmedabad,52,Active,UPI,6,Yearly,No,254,64,33,13,0,57,21,11,Mobile,5,4,2,No,321,3,No
+553,50,Female,Ahmedabad,24,Cancelled,Net Banking,10,Monthly,Yes,8,18,37,11,1,42,18,29,Mobile,5,5,11,Yes,258,8,No
+554,41,Female,Bangalore,40,Active,UPI,2,Monthly,No,38,30,33,19,0,55,25,7,Desktop,4,3,10,No,406,8,No
+555,34,Female,Chennai,41,Active,Credit/Debit Card,10,Yearly,Yes,225,23,5,18,8,21,20,19,Tablet,5,2,14,No,64,5,Yes
+556,48,Female,Bangalore,9,Cancelled,UPI,7,Yearly,No,181,62,3,0,3,27,24,22,Mobile,4,2,13,Yes,306,6,No
+557,54,Male,Hyderabad,14,Active,UPI,5,Monthly,Yes,271,80,3,12,0,24,13,6,Mobile,1,3,13,Yes,65,1,No
+558,52,Female,Pune,50,Active,UPI,1,Monthly,No,190,54,1,6,2,21,2,14,Mobile,3,5,5,No,476,2,No
+559,43,Female,Pune,32,Active,Net Banking,2,Quarterly,Yes,248,27,11,16,9,24,11,18,Mobile,5,5,9,No,355,3,No
+560,41,Female,Chennai,4,Cancelled,UPI,11,Quarterly,No,20,65,39,16,7,53,6,19,Mobile,2,0,10,Yes,259,4,Yes
+561,57,Male,Mumbai,42,Active,Credit/Debit Card,12,Yearly,No,63,77,27,12,1,47,21,22,Mobile,5,5,12,No,81,11,No
+562,44,Female,Hyderabad,20,Active,Net Banking,13,Monthly,No,245,30,26,18,3,18,32,3,Mobile,2,5,4,Yes,377,14,Yes
+563,32,Female,Bangalore,50,Active,Credit/Debit Card,13,Monthly,No,135,40,23,2,5,53,38,13,Mobile,1,0,7,Yes,292,4,Yes
+564,30,Female,Bangalore,12,Active,UPI,5,Monthly,Yes,42,38,8,0,7,22,49,24,Mobile,3,5,14,Yes,446,3,No
+565,30,Male,Ahmedabad,5,Active,UPI,8,Yearly,No,118,11,37,2,9,27,38,24,Mobile,4,0,15,No,406,12,Yes
+566,30,Male,Mumbai,14,Active,Credit/Debit Card,2,Monthly,No,42,80,11,15,3,25,6,8,Mobile,4,0,10,No,192,8,No
+567,41,Female,Mumbai,15,Active,Net Banking,4,Quarterly,No,254,7,5,12,1,59,50,16,Mobile,1,3,6,Yes,246,2,Yes
+568,46,Female,Pune,17,Active,UPI,6,Monthly,No,109,53,40,1,1,29,7,19,Mobile,1,5,3,No,486,0,Yes
+569,40,Female,Hyderabad,16,Active,Credit/Debit Card,7,Monthly,No,122,44,29,3,9,53,49,23,Mobile,1,2,8,Yes,128,10,No
+570,39,Male,Mumbai,50,Cancelled,Credit/Debit Card,5,Quarterly,Yes,173,70,25,16,8,11,43,30,Mobile,3,4,1,Yes,28,10,No
+571,38,Female,Pune,5,Active,Credit/Debit Card,6,Yearly,Yes,22,80,6,17,10,38,37,10,Mobile,5,0,7,Yes,195,12,No
+572,54,Male,Ahmedabad,59,Cancelled,Net Banking,14,Yearly,No,186,69,8,15,10,36,12,14,Desktop,4,3,5,Yes,443,3,No
+573,34,Male,Ahmedabad,52,Active,Net Banking,0,Yearly,No,64,60,10,1,8,45,41,11,Mobile,2,0,4,No,51,2,Yes
+574,33,Female,Kolkata,17,Active,UPI,10,Monthly,Yes,68,18,22,20,9,59,37,6,Mobile,1,2,11,Yes,394,9,Yes
+575,18,Female,Chennai,58,Active,UPI,12,Monthly,Yes,16,69,12,13,5,60,43,1,Desktop,2,4,8,Yes,69,7,Yes
+576,58,Male,Bangalore,44,Active,Credit/Debit Card,7,Yearly,No,110,76,14,2,9,11,20,17,Desktop,2,2,3,No,347,3,Yes
+577,43,Male,Kolkata,5,Active,UPI,15,Quarterly,No,208,35,36,7,6,17,50,18,Mobile,4,3,7,No,140,4,Yes
+578,48,Female,Kolkata,49,Active,Net Banking,6,Monthly,Yes,55,36,19,13,10,59,36,28,Mobile,4,2,11,Yes,11,15,Yes
+579,45,Female,Mumbai,26,Cancelled,UPI,0,Quarterly,No,237,11,22,8,8,37,45,27,Mobile,3,1,9,Yes,58,2,Yes
+580,31,Female,Mumbai,32,Active,Credit/Debit Card,14,Quarterly,No,176,59,24,14,1,8,3,12,Tablet,5,1,1,Yes,189,15,Yes
+581,38,Male,Hyderabad,25,Cancelled,Credit/Debit Card,2,Monthly,Yes,68,63,21,6,7,47,46,3,Tablet,1,5,4,Yes,476,2,Yes
+582,59,Male,Chennai,24,Active,UPI,11,Quarterly,No,278,80,19,9,7,24,8,21,Mobile,5,4,12,No,334,4,Yes
+583,45,Male,Ahmedabad,16,Active,UPI,0,Quarterly,Yes,143,53,29,18,7,11,31,26,Mobile,3,4,14,Yes,289,5,Yes
+584,32,Male,Ahmedabad,48,Active,UPI,7,Monthly,Yes,122,41,32,9,1,34,31,7,Mobile,2,5,9,Yes,499,7,Yes
+585,48,Female,Mumbai,52,Active,Credit/Debit Card,1,Monthly,No,154,12,4,7,10,43,26,6,Mobile,5,2,4,Yes,346,6,No
+586,55,Female,Mumbai,30,Cancelled,Credit/Debit Card,10,Monthly,Yes,256,46,38,2,6,10,22,3,Mobile,4,0,14,No,311,11,Yes
+587,42,Female,Hyderabad,25,Active,UPI,14,Quarterly,No,74,13,9,14,0,38,7,13,Tablet,4,5,2,Yes,235,10,Yes
+588,58,Male,Chennai,34,Cancelled,UPI,4,Quarterly,No,245,46,10,4,3,15,9,30,Tablet,2,1,5,No,434,5,No
+589,30,Female,Kolkata,29,Cancelled,UPI,15,Monthly,No,232,64,25,13,9,18,36,12,Mobile,5,0,15,Yes,365,12,No
+590,18,Male,Hyderabad,27,Cancelled,Credit/Debit Card,9,Monthly,Yes,284,51,22,9,2,32,42,11,Desktop,1,5,7,Yes,461,6,No
+591,39,Male,Mumbai,43,Cancelled,Net Banking,4,Monthly,No,102,59,3,15,10,36,28,12,Mobile,3,0,3,Yes,487,14,Yes
+592,27,Male,Chennai,46,Active,UPI,0,Monthly,Yes,81,7,21,0,0,34,46,6,Mobile,2,1,11,No,416,0,Yes
+593,57,Female,Hyderabad,52,Active,Credit/Debit Card,0,Monthly,No,162,36,27,16,10,50,19,5,Mobile,3,2,11,Yes,385,14,Yes
+594,24,Male,Mumbai,30,Active,UPI,2,Monthly,Yes,220,42,11,6,5,31,4,21,Mobile,4,2,2,Yes,343,14,Yes
+595,39,Female,Bangalore,12,Active,Credit/Debit Card,2,Quarterly,Yes,8,69,38,8,9,56,37,25,Desktop,5,3,7,No,80,8,No
+596,55,Male,Bangalore,31,Active,UPI,2,Monthly,No,268,35,18,4,3,54,46,15,Mobile,2,0,7,Yes,422,11,No
+597,36,Female,Ahmedabad,3,Active,UPI,6,Monthly,Yes,200,45,4,18,4,50,35,3,Mobile,4,3,9,Yes,429,14,Yes
+598,33,Female,Hyderabad,49,Active,UPI,8,Monthly,No,282,9,20,18,10,47,14,8,Mobile,3,0,0,No,358,6,No
+599,32,Male,Mumbai,29,Active,UPI,11,Yearly,No,247,78,3,8,5,30,41,26,Mobile,4,1,15,Yes,305,13,Yes
+600,20,Male,Pune,50,Active,UPI,11,Quarterly,Yes,108,50,3,13,9,29,43,21,Mobile,4,5,1,No,138,7,No
+601,38,Male,Kolkata,15,Cancelled,UPI,13,Yearly,No,162,9,25,13,7,27,11,15,Mobile,5,3,10,No,25,7,Yes
+602,39,Female,Pune,15,Active,UPI,4,Monthly,Yes,113,61,26,7,8,46,19,29,Tablet,5,0,2,Yes,26,5,No
+603,59,Female,Ahmedabad,26,Cancelled,UPI,2,Monthly,No,46,70,10,4,10,33,17,24,Mobile,5,5,9,Yes,134,1,No
+604,52,Female,Kolkata,7,Active,UPI,14,Monthly,No,255,42,18,14,5,40,17,14,Tablet,3,5,6,No,118,7,No
+605,24,Female,Mumbai,21,Active,UPI,5,Monthly,Yes,137,60,36,11,1,7,49,30,Mobile,3,0,1,Yes,367,15,No
+606,28,Male,Hyderabad,26,Cancelled,UPI,12,Monthly,Yes,20,31,24,17,0,23,13,2,Mobile,2,0,10,No,375,8,Yes
+607,24,Female,Ahmedabad,22,Active,UPI,10,Monthly,Yes,103,66,38,16,10,58,2,1,Mobile,1,5,15,No,328,6,No
+608,39,Male,Ahmedabad,47,Active,Credit/Debit Card,11,Quarterly,No,158,74,23,13,2,28,14,0,Mobile,1,2,2,No,332,6,No
+609,40,Male,Ahmedabad,47,Active,Credit/Debit Card,13,Quarterly,Yes,256,5,19,9,6,21,37,21,Mobile,4,5,8,Yes,167,9,No
+610,41,Male,Bangalore,44,Cancelled,Credit/Debit Card,4,Monthly,No,236,63,21,14,6,25,5,11,Desktop,1,4,8,No,293,14,No
+611,60,Female,Mumbai,29,Active,UPI,14,Monthly,No,8,7,8,19,4,33,26,24,Mobile,5,1,13,No,82,6,Yes
+612,55,Female,Mumbai,4,Active,Net Banking,15,Quarterly,Yes,91,36,5,1,1,51,33,9,Mobile,3,0,12,Yes,201,14,No
+613,22,Female,Bangalore,54,Active,Credit/Debit Card,15,Quarterly,No,140,52,3,0,1,42,30,28,Mobile,4,4,10,Yes,358,10,No
+614,40,Female,Pune,10,Cancelled,Net Banking,8,Monthly,No,116,68,11,13,8,26,21,20,Tablet,1,5,0,Yes,76,3,Yes
+615,41,Male,Hyderabad,47,Active,UPI,9,Quarterly,No,103,19,20,10,3,23,4,23,Mobile,3,5,9,Yes,357,1,No
+616,23,Female,Bangalore,16,Active,UPI,13,Monthly,Yes,177,46,31,4,10,29,30,28,Mobile,5,3,13,No,19,9,Yes
+617,31,Male,Ahmedabad,49,Cancelled,Credit/Debit Card,10,Monthly,No,138,73,4,10,1,40,15,23,Mobile,4,4,7,No,88,2,Yes
+618,56,Male,Ahmedabad,47,Active,Credit/Debit Card,1,Quarterly,Yes,295,17,16,10,1,21,12,2,Desktop,3,4,4,Yes,89,14,No
+619,42,Male,Hyderabad,41,Cancelled,UPI,5,Quarterly,No,182,45,35,12,8,18,43,0,Mobile,4,4,14,Yes,429,4,Yes
+620,27,Male,Ahmedabad,11,Cancelled,UPI,11,Quarterly,Yes,202,10,6,11,5,23,0,23,Mobile,3,0,14,Yes,117,0,Yes
+621,18,Male,Chennai,49,Active,Credit/Debit Card,2,Quarterly,No,292,43,10,7,7,17,34,2,Mobile,4,4,2,No,433,14,Yes
+622,26,Male,Hyderabad,16,Cancelled,Credit/Debit Card,15,Monthly,No,196,20,14,15,7,23,4,2,Desktop,3,2,5,No,213,9,Yes
+623,29,Female,Ahmedabad,38,Active,UPI,7,Quarterly,Yes,16,69,29,15,5,32,31,9,Mobile,4,2,0,Yes,429,14,Yes
+624,31,Female,Kolkata,12,Active,Net Banking,7,Monthly,Yes,32,10,13,4,0,13,18,2,Mobile,3,3,2,No,154,7,Yes
+625,46,Female,Ahmedabad,20,Active,UPI,15,Quarterly,Yes,161,12,33,15,0,60,21,26,Mobile,1,2,4,No,442,4,No
+626,29,Male,Pune,53,Active,UPI,13,Quarterly,Yes,61,58,10,3,0,29,39,8,Mobile,4,4,12,Yes,276,2,Yes
+627,21,Male,Pune,38,Active,Credit/Debit Card,4,Monthly,No,222,80,28,12,10,32,3,25,Tablet,2,0,6,Yes,393,13,Yes
+628,31,Male,Bangalore,16,Active,UPI,6,Monthly,Yes,22,40,31,16,4,60,49,30,Desktop,4,0,8,Yes,406,7,No
+629,36,Female,Hyderabad,11,Cancelled,UPI,11,Yearly,No,119,28,24,1,0,6,47,20,Mobile,1,4,15,No,402,7,Yes
+630,31,Female,Pune,27,Active,Net Banking,11,Yearly,Yes,137,80,36,16,7,35,34,2,Tablet,5,5,5,No,252,9,No
+631,40,Female,Ahmedabad,17,Cancelled,Credit/Debit Card,1,Yearly,No,53,47,31,15,9,43,40,27,Mobile,3,2,14,Yes,232,10,Yes
+632,40,Female,Mumbai,11,Active,UPI,3,Yearly,No,291,5,18,18,5,57,11,30,Mobile,4,3,1,No,227,9,Yes
+633,25,Male,Pune,34,Active,UPI,2,Quarterly,Yes,61,62,9,0,10,12,7,10,Mobile,5,1,7,Yes,245,4,Yes
+634,49,Female,Hyderabad,49,Cancelled,Net Banking,11,Quarterly,Yes,101,27,26,17,2,35,31,28,Mobile,3,2,11,Yes,64,14,Yes
+635,35,Female,Bangalore,18,Active,Credit/Debit Card,13,Monthly,No,36,56,21,14,4,50,25,24,Mobile,2,5,13,Yes,183,6,No
+636,53,Female,Ahmedabad,54,Active,Net Banking,5,Quarterly,No,258,20,28,11,8,48,7,10,Desktop,2,3,11,Yes,33,12,No
+637,32,Female,Hyderabad,14,Active,Net Banking,0,Monthly,No,251,60,24,1,5,18,43,4,Mobile,4,0,11,No,144,4,No
+638,58,Male,Mumbai,49,Cancelled,Net Banking,15,Monthly,No,287,9,5,17,8,9,27,3,Mobile,2,0,0,Yes,318,9,Yes
+639,39,Male,Mumbai,23,Cancelled,Net Banking,9,Monthly,Yes,119,45,22,16,10,33,10,16,Mobile,1,1,2,No,478,10,No
+640,43,Female,Pune,18,Cancelled,Net Banking,15,Quarterly,Yes,24,34,36,7,3,51,5,22,Mobile,3,4,13,Yes,443,6,Yes
+641,19,Female,Hyderabad,49,Active,UPI,12,Quarterly,No,44,45,40,5,3,11,48,20,Tablet,1,0,6,No,229,3,Yes
+642,42,Male,Hyderabad,6,Cancelled,UPI,9,Quarterly,No,56,8,17,2,10,27,8,22,Mobile,5,2,10,No,496,4,No
+643,29,Male,Chennai,31,Active,UPI,8,Yearly,Yes,59,55,26,10,5,46,48,4,Mobile,4,4,15,No,58,13,No
+644,53,Male,Pune,43,Active,Net Banking,9,Quarterly,No,114,60,19,12,10,18,22,3,Tablet,1,1,13,No,33,5,No
+645,18,Female,Bangalore,35,Active,UPI,4,Monthly,No,56,55,25,15,8,19,18,12,Mobile,4,3,5,Yes,111,0,No
+646,46,Female,Mumbai,26,Active,UPI,9,Monthly,No,299,21,1,6,2,56,42,1,Desktop,5,0,15,No,296,9,No
+647,23,Male,Pune,32,Active,Credit/Debit Card,4,Monthly,No,105,12,33,19,0,24,0,22,Mobile,1,3,6,No,372,15,Yes
+648,45,Female,Pune,18,Active,UPI,12,Yearly,Yes,11,77,26,6,1,26,21,26,Mobile,5,0,7,No,176,2,Yes
+649,59,Male,Mumbai,32,Cancelled,Net Banking,0,Monthly,Yes,85,40,14,8,4,52,29,23,Mobile,4,3,4,Yes,247,7,Yes
+650,47,Male,Ahmedabad,15,Cancelled,UPI,8,Quarterly,No,256,26,24,2,8,29,19,18,Mobile,2,5,9,Yes,146,13,Yes
+651,34,Male,Hyderabad,51,Cancelled,UPI,11,Quarterly,Yes,30,46,34,20,5,21,41,26,Mobile,5,3,4,No,123,11,Yes
+652,45,Male,Pune,9,Active,Credit/Debit Card,4,Quarterly,Yes,290,20,5,11,7,46,22,24,Mobile,2,3,14,No,162,10,Yes
+653,51,Female,Bangalore,47,Active,UPI,10,Quarterly,No,289,51,29,0,7,15,31,30,Desktop,1,5,7,No,260,11,No
+654,39,Female,Pune,12,Active,UPI,9,Monthly,Yes,129,13,38,15,2,53,0,0,Desktop,3,5,9,Yes,82,11,Yes
+655,20,Male,Chennai,35,Active,Net Banking,9,Monthly,No,250,15,20,13,2,36,30,23,Mobile,1,1,3,No,392,5,Yes
+656,30,Male,Chennai,12,Active,UPI,10,Monthly,No,86,66,15,12,9,40,1,9,Desktop,1,3,1,Yes,66,12,Yes
+657,31,Female,Pune,31,Active,UPI,1,Quarterly,No,212,13,34,13,6,33,39,22,Mobile,1,1,7,Yes,0,8,Yes
+658,39,Male,Mumbai,44,Active,UPI,10,Monthly,No,143,65,2,16,4,18,35,24,Mobile,2,3,13,No,16,2,Yes
+659,29,Male,Bangalore,37,Active,Net Banking,15,Yearly,No,108,44,27,2,0,25,24,26,Mobile,2,3,1,No,346,13,No
+660,49,Female,Mumbai,26,Active,UPI,2,Quarterly,Yes,114,45,30,5,8,60,4,12,Mobile,5,5,6,Yes,361,13,Yes
+661,54,Male,Pune,16,Active,UPI,10,Yearly,No,34,49,27,14,2,26,17,25,Mobile,1,5,10,Yes,50,8,Yes
+662,22,Female,Mumbai,60,Active,UPI,8,Quarterly,No,76,53,16,18,10,33,3,10,Desktop,4,3,9,Yes,30,1,Yes
+663,50,Male,Kolkata,22,Active,UPI,12,Quarterly,No,252,46,29,16,3,25,36,17,Tablet,3,2,7,Yes,457,0,No
+664,40,Female,Mumbai,56,Cancelled,UPI,13,Monthly,Yes,248,35,34,16,2,53,21,6,Mobile,2,4,4,No,283,1,No
+665,59,Female,Chennai,36,Active,Net Banking,13,Monthly,Yes,94,75,1,9,4,14,49,3,Mobile,4,2,15,No,364,3,Yes
+666,48,Female,Bangalore,11,Active,UPI,3,Monthly,No,268,37,38,20,3,54,48,23,Mobile,2,1,2,No,210,2,No
+667,57,Male,Hyderabad,42,Active,Credit/Debit Card,7,Monthly,No,47,20,16,19,1,50,46,1,Mobile,3,5,0,Yes,42,5,Yes
+668,57,Female,Pune,24,Active,Credit/Debit Card,9,Yearly,Yes,181,66,10,6,10,18,2,29,Desktop,2,0,5,Yes,421,13,No
+669,58,Male,Pune,51,Active,Credit/Debit Card,6,Quarterly,Yes,7,7,28,19,7,48,0,20,Desktop,5,5,15,No,226,6,No
+670,55,Female,Bangalore,17,Active,UPI,7,Yearly,Yes,156,39,6,1,0,23,1,17,Desktop,4,4,15,Yes,373,1,No
+671,38,Female,Mumbai,49,Active,Net Banking,9,Monthly,No,267,31,31,1,9,38,4,14,Mobile,3,4,8,No,27,10,No
+672,24,Male,Chennai,2,Active,UPI,15,Monthly,Yes,166,21,19,9,10,33,18,3,Mobile,4,3,12,No,272,14,No
+673,41,Male,Hyderabad,23,Active,Credit/Debit Card,4,Yearly,No,253,76,11,3,10,23,46,6,Mobile,4,5,0,No,487,5,Yes
+674,59,Female,Chennai,2,Active,Credit/Debit Card,5,Quarterly,Yes,230,60,34,10,7,40,45,27,Mobile,2,2,11,Yes,45,9,Yes
+675,31,Male,Hyderabad,32,Active,UPI,14,Monthly,Yes,171,68,2,5,2,26,33,13,Mobile,4,2,11,Yes,70,12,No
+676,29,Female,Kolkata,39,Active,UPI,11,Yearly,Yes,153,46,3,19,4,30,15,18,Mobile,2,2,8,No,248,8,No
+677,56,Female,Ahmedabad,30,Active,Credit/Debit Card,4,Monthly,No,14,37,8,3,3,32,30,14,Mobile,3,1,2,Yes,449,0,No
+678,34,Female,Ahmedabad,14,Active,Credit/Debit Card,9,Monthly,Yes,115,21,24,15,2,15,26,8,Mobile,2,1,14,Yes,440,8,No
+679,54,Female,Chennai,7,Active,UPI,2,Monthly,Yes,199,5,2,9,3,56,49,20,Mobile,3,2,4,Yes,205,3,No
+680,25,Male,Kolkata,21,Active,Credit/Debit Card,9,Yearly,Yes,209,72,13,0,3,43,48,10,Mobile,2,0,2,Yes,52,10,Yes
+681,56,Female,Pune,11,Active,Credit/Debit Card,11,Monthly,Yes,167,73,35,20,9,40,50,9,Desktop,4,1,4,No,414,2,No
+682,24,Male,Mumbai,30,Active,UPI,5,Monthly,Yes,47,6,21,3,1,9,10,21,Desktop,4,3,9,No,396,9,Yes
+683,37,Female,Bangalore,46,Active,UPI,10,Monthly,No,9,64,17,1,2,51,44,27,Mobile,4,0,2,Yes,83,15,No
+684,33,Male,Chennai,30,Active,Credit/Debit Card,15,Monthly,Yes,106,66,23,5,0,43,14,9,Mobile,5,5,9,Yes,73,2,No
+685,45,Female,Hyderabad,58,Cancelled,UPI,8,Yearly,Yes,180,61,38,13,2,11,12,24,Mobile,2,3,11,No,286,0,No
+686,22,Male,Bangalore,14,Active,UPI,8,Monthly,Yes,169,52,34,3,7,13,26,21,Desktop,2,3,13,No,188,6,Yes
+687,54,Male,Mumbai,50,Active,UPI,7,Yearly,Yes,84,73,5,9,7,37,37,30,Mobile,5,1,3,No,478,2,Yes
+688,18,Female,Kolkata,27,Active,UPI,8,Monthly,Yes,259,25,9,4,6,5,31,12,Desktop,1,0,1,No,472,0,No
+689,30,Male,Chennai,48,Active,UPI,11,Quarterly,Yes,273,27,7,4,0,43,36,10,Mobile,4,4,6,Yes,186,10,No
+690,18,Female,Pune,45,Active,UPI,9,Monthly,Yes,225,44,20,11,1,55,34,8,Desktop,3,1,10,No,215,5,No
+691,49,Female,Chennai,46,Active,Net Banking,3,Monthly,Yes,97,21,10,19,9,41,18,2,Mobile,5,1,12,Yes,263,1,No
+692,59,Male,Kolkata,17,Active,Net Banking,15,Yearly,Yes,222,64,31,17,6,46,43,6,Mobile,1,1,10,Yes,480,11,Yes
+693,28,Female,Bangalore,1,Active,Credit/Debit Card,3,Yearly,Yes,172,75,19,1,2,23,19,6,Mobile,3,4,10,No,481,6,No
+694,55,Female,Hyderabad,43,Active,Net Banking,1,Yearly,Yes,210,50,30,2,6,36,5,25,Mobile,4,2,9,No,246,4,Yes
+695,29,Female,Pune,1,Active,Credit/Debit Card,4,Quarterly,No,180,35,33,1,9,42,10,9,Mobile,1,1,3,Yes,442,6,No
+696,55,Male,Hyderabad,10,Active,UPI,9,Yearly,No,79,67,11,12,0,54,20,10,Mobile,4,5,4,No,100,12,No
+697,28,Female,Ahmedabad,28,Cancelled,UPI,5,Quarterly,Yes,76,69,24,5,7,15,48,13,Mobile,4,2,13,No,125,2,No
+698,31,Female,Bangalore,56,Active,Credit/Debit Card,0,Monthly,No,235,30,37,18,9,25,38,18,Mobile,4,3,11,No,195,9,Yes
+699,24,Male,Hyderabad,50,Active,Credit/Debit Card,9,Monthly,Yes,203,38,14,9,10,46,29,7,Mobile,3,2,0,No,99,0,Yes
+700,30,Male,Chennai,32,Cancelled,Credit/Debit Card,11,Monthly,No,278,16,40,11,8,50,39,10,Mobile,4,2,12,Yes,144,12,Yes
+701,58,Female,Kolkata,54,Cancelled,Credit/Debit Card,10,Yearly,Yes,240,28,12,11,8,10,5,16,Mobile,5,0,0,No,182,5,No
+702,22,Male,Ahmedabad,37,Active,UPI,6,Quarterly,No,25,79,3,5,7,51,41,5,Mobile,1,2,14,No,51,8,No
+703,26,Female,Mumbai,58,Active,Credit/Debit Card,6,Monthly,No,259,31,34,18,6,11,14,14,Mobile,3,0,1,No,414,10,No
+704,50,Female,Bangalore,36,Cancelled,Net Banking,11,Monthly,No,251,15,40,17,6,48,32,11,Tablet,2,4,8,No,4,3,Yes
+705,47,Female,Ahmedabad,46,Cancelled,UPI,4,Monthly,Yes,74,45,29,11,6,8,43,15,Mobile,4,5,12,Yes,235,7,Yes
+706,29,Male,Hyderabad,17,Active,UPI,10,Yearly,Yes,14,57,29,15,1,17,49,17,Mobile,2,0,12,No,354,14,No
+707,22,Female,Hyderabad,44,Active,UPI,8,Monthly,No,242,9,18,10,1,39,50,10,Mobile,2,3,8,No,498,3,Yes
+708,31,Female,Hyderabad,17,Active,Credit/Debit Card,10,Monthly,No,11,21,34,13,4,36,35,11,Mobile,1,2,14,No,448,4,Yes
+709,57,Female,Mumbai,12,Cancelled,UPI,4,Quarterly,Yes,110,13,2,11,1,41,7,25,Mobile,4,0,8,No,17,1,No
+710,56,Male,Pune,56,Active,UPI,6,Yearly,Yes,268,61,31,17,10,29,37,2,Mobile,4,2,10,No,416,8,Yes
+711,48,Female,Kolkata,25,Cancelled,Credit/Debit Card,12,Yearly,Yes,96,66,20,11,4,25,30,26,Mobile,1,4,15,No,183,12,No
+712,18,Female,Mumbai,39,Cancelled,Credit/Debit Card,13,Monthly,No,273,57,32,4,0,31,17,18,Mobile,1,0,6,No,306,4,Yes
+713,56,Male,Hyderabad,38,Active,UPI,5,Monthly,Yes,225,22,37,2,9,27,18,3,Mobile,3,4,4,Yes,205,12,Yes
+714,23,Female,Kolkata,51,Active,UPI,6,Monthly,No,241,10,18,12,4,29,27,11,Mobile,4,4,14,No,217,12,No
+715,48,Female,Pune,59,Cancelled,Net Banking,11,Monthly,Yes,284,66,18,19,1,33,6,23,Mobile,3,2,4,Yes,463,12,Yes
+716,57,Male,Hyderabad,26,Cancelled,UPI,10,Monthly,No,205,80,29,11,2,37,24,26,Desktop,5,2,6,Yes,424,10,Yes
+717,27,Female,Mumbai,57,Active,Credit/Debit Card,13,Monthly,Yes,145,23,32,8,2,14,26,23,Mobile,2,5,13,No,242,14,Yes
+718,27,Female,Hyderabad,18,Active,UPI,11,Quarterly,No,266,36,1,9,10,35,24,18,Mobile,2,2,6,No,97,2,No
+719,39,Male,Hyderabad,22,Cancelled,UPI,4,Quarterly,Yes,19,76,6,9,8,14,40,7,Mobile,3,3,9,Yes,207,7,Yes
+720,25,Female,Pune,56,Active,Credit/Debit Card,15,Monthly,No,171,64,3,14,2,58,7,0,Mobile,3,0,1,No,424,4,Yes
+721,56,Male,Bangalore,45,Active,Credit/Debit Card,3,Quarterly,Yes,143,16,13,8,3,9,49,9,Mobile,2,4,6,Yes,267,14,No
+722,18,Female,Pune,10,Cancelled,UPI,11,Monthly,No,300,32,4,1,6,5,31,8,Tablet,1,2,15,No,249,2,Yes
+723,39,Female,Hyderabad,50,Active,Credit/Debit Card,8,Monthly,No,103,10,11,6,7,21,22,9,Mobile,5,1,6,Yes,175,7,No
+724,48,Female,Kolkata,49,Active,Credit/Debit Card,4,Monthly,No,62,20,19,0,6,41,46,24,Mobile,3,5,0,No,134,2,Yes
+725,23,Male,Hyderabad,41,Active,UPI,14,Quarterly,Yes,223,50,38,13,9,22,26,15,Desktop,4,1,8,No,395,2,No
+726,31,Male,Ahmedabad,20,Active,UPI,12,Monthly,No,254,73,11,19,10,60,48,22,Desktop,1,2,1,No,291,10,No
+727,43,Male,Bangalore,46,Active,Credit/Debit Card,0,Yearly,No,110,38,5,9,1,21,1,21,Mobile,4,1,0,Yes,155,6,No
+728,32,Female,Hyderabad,52,Active,UPI,13,Yearly,No,87,24,23,12,2,45,6,0,Tablet,5,3,14,No,156,12,Yes
+729,25,Female,Hyderabad,58,Active,UPI,12,Quarterly,Yes,20,42,28,16,0,50,30,8,Mobile,3,3,12,No,323,12,Yes
+730,32,Female,Pune,6,Active,Net Banking,13,Monthly,Yes,267,17,13,4,5,44,39,9,Mobile,5,5,0,Yes,137,4,No
+731,22,Female,Bangalore,1,Active,Credit/Debit Card,9,Monthly,No,263,79,33,1,6,32,25,18,Mobile,1,1,2,No,23,4,Yes
+732,32,Female,Ahmedabad,2,Active,Credit/Debit Card,10,Yearly,Yes,54,49,7,19,3,52,8,18,Desktop,3,3,14,Yes,428,3,No
+733,31,Female,Mumbai,21,Active,Credit/Debit Card,15,Monthly,No,265,68,7,15,10,34,48,7,Mobile,5,3,0,Yes,289,0,Yes
+734,41,Male,Chennai,11,Active,UPI,10,Quarterly,No,206,68,12,9,5,7,42,15,Mobile,3,1,5,Yes,264,12,Yes
+735,28,Female,Kolkata,42,Cancelled,Credit/Debit Card,2,Yearly,No,285,67,32,10,3,32,39,30,Desktop,4,0,7,Yes,71,7,No
+736,34,Female,Pune,60,Active,Credit/Debit Card,4,Yearly,No,181,30,38,17,8,36,35,18,Mobile,4,5,15,No,46,4,No
+737,55,Female,Mumbai,13,Cancelled,Net Banking,1,Monthly,No,20,14,10,12,1,46,31,14,Tablet,5,3,7,Yes,425,10,Yes
+738,55,Female,Kolkata,56,Active,Credit/Debit Card,11,Monthly,Yes,11,65,12,16,6,5,34,2,Mobile,5,5,8,Yes,431,4,No
+739,26,Female,Kolkata,32,Active,Credit/Debit Card,0,Quarterly,Yes,291,72,28,7,9,25,42,21,Mobile,1,5,0,No,31,7,No
+740,20,Male,Ahmedabad,23,Active,Net Banking,4,Monthly,Yes,21,80,8,2,9,16,0,10,Desktop,1,3,14,No,387,12,Yes
+741,51,Female,Bangalore,2,Active,UPI,6,Monthly,Yes,170,77,3,16,7,57,43,29,Mobile,3,1,8,Yes,48,8,No
+742,40,Male,Mumbai,47,Active,Credit/Debit Card,0,Monthly,No,149,65,24,3,8,26,44,22,Desktop,4,0,0,No,131,10,No
+743,19,Female,Hyderabad,26,Active,UPI,5,Quarterly,No,265,72,25,15,0,29,41,11,Desktop,5,4,3,No,425,3,No
+744,21,Male,Pune,33,Cancelled,Credit/Debit Card,3,Monthly,Yes,103,44,33,4,3,27,49,9,Mobile,5,1,7,No,33,11,No
+745,27,Male,Bangalore,37,Active,Credit/Debit Card,7,Monthly,Yes,218,16,27,15,7,30,5,7,Mobile,4,5,9,No,71,7,Yes
+746,55,Female,Chennai,38,Cancelled,UPI,1,Monthly,No,35,38,36,20,10,9,39,26,Mobile,2,3,7,Yes,136,7,Yes
+747,46,Male,Kolkata,23,Active,Credit/Debit Card,12,Monthly,No,148,67,29,2,8,57,47,17,Mobile,5,0,7,Yes,483,9,Yes
+748,29,Male,Mumbai,19,Active,Net Banking,12,Quarterly,Yes,237,54,21,13,10,58,20,5,Mobile,4,0,1,No,380,6,No
+749,49,Female,Pune,35,Active,Credit/Debit Card,5,Quarterly,Yes,166,35,35,13,9,50,38,28,Mobile,2,3,11,No,152,13,Yes
+750,60,Male,Chennai,40,Active,Credit/Debit Card,11,Monthly,No,271,25,8,17,8,54,4,29,Mobile,3,5,13,No,410,5,No
+751,41,Male,Hyderabad,41,Cancelled,UPI,4,Monthly,Yes,47,41,39,6,7,13,26,29,Mobile,5,2,7,Yes,286,10,No
+752,43,Female,Pune,38,Active,UPI,14,Yearly,Yes,210,70,27,10,1,51,26,13,Mobile,3,2,4,Yes,162,1,No
+753,26,Male,Chennai,19,Active,UPI,8,Monthly,Yes,30,39,35,6,10,46,25,13,Tablet,5,4,10,Yes,240,15,Yes
+754,29,Male,Mumbai,4,Cancelled,UPI,3,Monthly,Yes,188,62,17,2,7,41,43,12,Mobile,4,3,1,Yes,79,6,No
+755,38,Female,Mumbai,33,Active,UPI,8,Monthly,No,127,21,10,12,9,33,4,25,Mobile,3,3,8,No,311,4,Yes
+756,42,Male,Pune,53,Active,UPI,1,Quarterly,Yes,40,79,30,10,4,60,38,5,Tablet,2,1,8,No,153,0,Yes
+757,21,Female,Pune,28,Active,UPI,5,Quarterly,No,123,24,37,0,3,13,5,4,Mobile,5,4,1,Yes,326,6,Yes
+758,48,Female,Pune,24,Active,Credit/Debit Card,9,Monthly,No,83,55,16,20,1,58,23,15,Mobile,2,1,14,No,481,5,Yes
+759,22,Male,Bangalore,35,Active,Credit/Debit Card,2,Monthly,Yes,24,18,15,0,8,14,26,6,Desktop,3,2,8,No,496,3,No
+760,22,Male,Mumbai,12,Active,Net Banking,12,Quarterly,No,138,15,17,1,9,16,14,3,Mobile,5,4,0,Yes,302,7,Yes
+761,59,Female,Ahmedabad,26,Active,UPI,1,Quarterly,No,111,17,8,15,6,47,43,22,Mobile,5,0,8,Yes,104,0,Yes
+762,48,Male,Kolkata,1,Active,UPI,0,Yearly,Yes,90,75,21,10,10,53,11,30,Mobile,2,0,15,No,2,5,No
+763,47,Female,Kolkata,35,Active,UPI,5,Monthly,No,142,19,2,2,6,20,46,11,Mobile,4,5,7,No,183,0,No
+764,34,Female,Mumbai,7,Active,Credit/Debit Card,9,Monthly,Yes,43,7,9,1,6,55,13,13,Mobile,5,0,0,No,201,4,No
+765,51,Female,Bangalore,8,Active,Credit/Debit Card,9,Yearly,Yes,25,18,16,19,1,45,34,16,Mobile,1,0,8,No,319,3,No
+766,18,Male,Bangalore,23,Cancelled,UPI,6,Monthly,No,112,73,40,16,0,29,15,18,Mobile,4,3,5,No,350,12,No
+767,42,Female,Pune,1,Active,Net Banking,0,Monthly,No,38,45,34,20,10,10,10,11,Tablet,1,1,1,No,254,11,Yes
+768,28,Male,Bangalore,22,Active,Credit/Debit Card,6,Quarterly,No,228,32,3,16,1,8,18,27,Desktop,4,2,14,No,199,4,No
+769,41,Female,Pune,52,Cancelled,Credit/Debit Card,11,Yearly,No,269,5,10,2,8,35,25,16,Mobile,2,0,15,No,282,3,No
+770,51,Female,Chennai,49,Active,Credit/Debit Card,4,Monthly,No,91,33,11,15,6,31,44,26,Tablet,2,5,5,No,359,11,No
+771,28,Female,Kolkata,58,Active,Net Banking,12,Monthly,No,284,63,2,17,2,13,34,24,Mobile,4,2,6,No,255,7,No
+772,33,Female,Chennai,47,Cancelled,Credit/Debit Card,4,Monthly,No,179,23,39,14,9,16,8,15,Desktop,3,2,10,Yes,50,11,Yes
+773,18,Female,Kolkata,11,Active,UPI,10,Monthly,No,245,52,34,11,8,27,30,5,Mobile,5,1,14,Yes,59,8,Yes
+774,59,Female,Pune,59,Cancelled,Net Banking,1,Monthly,No,88,79,33,8,10,11,31,24,Desktop,4,5,13,No,358,5,No
+775,60,Male,Kolkata,45,Cancelled,UPI,6,Quarterly,No,118,50,14,19,6,21,18,6,Mobile,4,1,13,Yes,93,4,No
+776,46,Male,Kolkata,56,Active,UPI,9,Monthly,No,190,63,24,17,7,43,6,8,Tablet,5,2,1,No,315,13,Yes
+777,46,Male,Mumbai,33,Active,UPI,4,Monthly,Yes,226,26,35,15,0,33,37,2,Mobile,3,1,5,Yes,269,10,Yes
+778,58,Female,Kolkata,15,Cancelled,UPI,2,Monthly,Yes,179,36,40,2,3,52,18,10,Mobile,1,5,12,Yes,484,10,Yes
+779,43,Female,Bangalore,53,Active,Credit/Debit Card,4,Monthly,No,126,77,33,13,10,19,16,9,Mobile,2,3,2,No,480,15,Yes
+780,50,Male,Hyderabad,3,Cancelled,Credit/Debit Card,2,Monthly,No,219,6,27,9,5,20,16,26,Mobile,1,4,11,No,242,3,Yes
+781,21,Female,Bangalore,11,Active,UPI,3,Quarterly,Yes,262,26,9,1,4,14,31,4,Desktop,1,5,6,No,98,11,Yes
+782,60,Female,Mumbai,6,Cancelled,Net Banking,11,Quarterly,Yes,161,27,14,6,5,9,19,8,Desktop,3,2,12,No,422,2,No
+783,40,Female,Ahmedabad,9,Active,Net Banking,8,Monthly,Yes,121,77,3,3,2,58,3,16,Tablet,5,2,4,No,379,9,No
+784,37,Female,Hyderabad,1,Cancelled,UPI,11,Yearly,Yes,134,24,24,16,1,15,20,10,Mobile,4,4,12,Yes,56,2,Yes
+785,57,Male,Mumbai,30,Active,UPI,12,Monthly,Yes,134,73,14,15,1,25,32,28,Mobile,3,3,8,Yes,424,10,Yes
+786,38,Female,Bangalore,18,Cancelled,Net Banking,0,Monthly,Yes,10,57,26,10,1,23,36,9,Tablet,1,1,0,No,186,15,No
+787,35,Female,Chennai,49,Cancelled,Credit/Debit Card,10,Yearly,No,271,46,26,2,3,17,43,3,Mobile,4,3,1,No,238,1,No
+788,35,Female,Bangalore,13,Active,UPI,5,Yearly,No,128,6,27,5,10,46,16,25,Mobile,4,1,6,No,220,6,No
+789,44,Female,Mumbai,12,Active,UPI,12,Yearly,Yes,202,19,32,8,5,45,32,11,Mobile,4,5,5,Yes,411,1,Yes
+790,60,Male,Kolkata,57,Active,Credit/Debit Card,3,Monthly,No,76,34,6,4,4,42,33,28,Mobile,1,3,1,Yes,341,12,Yes
+791,33,Female,Kolkata,39,Active,Credit/Debit Card,6,Yearly,No,103,28,8,3,8,5,45,4,Mobile,4,0,13,Yes,418,12,No
+792,25,Male,Pune,35,Active,UPI,12,Quarterly,Yes,297,68,28,12,9,23,16,18,Desktop,2,3,12,Yes,113,6,No
+793,29,Male,Mumbai,15,Cancelled,Credit/Debit Card,12,Monthly,No,220,16,29,18,4,35,6,16,Desktop,3,2,0,No,206,11,Yes
+794,47,Male,Hyderabad,48,Cancelled,UPI,6,Monthly,Yes,245,26,4,14,3,30,8,2,Tablet,3,5,12,Yes,488,12,Yes
+795,32,Female,Chennai,14,Active,Credit/Debit Card,2,Monthly,Yes,291,63,39,5,4,11,43,10,Mobile,5,4,2,No,427,8,No
+796,39,Female,Kolkata,29,Active,Net Banking,4,Monthly,Yes,225,68,31,4,4,49,7,7,Mobile,3,1,7,No,302,10,No
+797,52,Male,Chennai,19,Active,Credit/Debit Card,13,Monthly,No,109,15,28,13,8,59,27,7,Desktop,4,1,6,No,405,8,Yes
+798,18,Male,Hyderabad,15,Active,Credit/Debit Card,14,Quarterly,Yes,119,43,7,15,3,23,46,18,Mobile,4,4,6,Yes,4,6,No
+799,58,Male,Bangalore,24,Active,UPI,15,Yearly,No,17,24,22,3,5,10,46,14,Mobile,3,0,3,Yes,235,15,No
+800,21,Male,Chennai,30,Active,UPI,0,Monthly,Yes,280,53,7,0,8,51,12,8,Desktop,1,1,3,No,152,15,No
+801,46,Male,Bangalore,60,Active,UPI,3,Quarterly,No,276,19,33,12,9,15,25,26,Desktop,4,4,0,No,493,15,No
+802,35,Female,Bangalore,17,Active,UPI,11,Monthly,No,97,40,3,6,10,11,44,23,Mobile,3,1,4,Yes,361,7,Yes
+803,52,Male,Ahmedabad,27,Cancelled,Credit/Debit Card,11,Quarterly,No,265,23,4,14,8,49,6,9,Desktop,2,0,1,No,262,6,No
+804,18,Female,Pune,29,Active,UPI,7,Monthly,No,70,70,28,17,10,32,35,1,Desktop,1,0,14,Yes,356,8,Yes
+805,44,Female,Chennai,54,Active,UPI,3,Monthly,Yes,236,79,16,2,3,27,9,10,Mobile,4,3,15,No,23,1,No
+806,55,Female,Bangalore,47,Active,UPI,5,Monthly,Yes,168,60,9,16,10,34,25,24,Desktop,5,2,13,Yes,407,1,Yes
+807,24,Female,Hyderabad,52,Active,Net Banking,14,Yearly,No,265,10,19,17,5,32,24,24,Desktop,4,3,12,No,125,12,Yes
+808,29,Male,Kolkata,28,Active,UPI,6,Monthly,No,239,61,2,17,2,54,31,27,Mobile,5,4,2,Yes,174,7,No
+809,27,Male,Mumbai,16,Active,Credit/Debit Card,4,Monthly,No,44,78,13,1,1,16,39,10,Desktop,1,5,1,Yes,0,1,No
+810,19,Female,Bangalore,2,Active,UPI,12,Monthly,Yes,294,75,25,7,6,19,40,7,Mobile,5,3,2,No,314,5,No
+811,58,Female,Hyderabad,35,Active,Credit/Debit Card,6,Monthly,No,90,74,15,2,2,28,21,13,Desktop,4,0,13,No,307,10,No
+812,46,Male,Hyderabad,38,Active,UPI,1,Monthly,No,23,67,13,19,7,51,1,13,Mobile,1,1,12,Yes,388,4,Yes
+813,60,Male,Hyderabad,48,Active,UPI,14,Monthly,Yes,120,26,6,7,4,31,10,20,Mobile,4,1,8,No,349,3,No
+814,49,Male,Hyderabad,23,Cancelled,UPI,15,Monthly,Yes,53,55,15,8,4,10,31,24,Mobile,4,4,4,Yes,355,9,Yes
+815,55,Female,Pune,16,Cancelled,UPI,1,Monthly,No,266,55,28,20,2,43,30,18,Tablet,4,4,2,No,175,12,No
+816,59,Male,Pune,8,Active,UPI,2,Monthly,Yes,211,17,18,5,1,29,22,20,Mobile,4,3,13,No,107,1,No
+817,41,Female,Hyderabad,39,Active,UPI,13,Yearly,No,76,34,23,20,1,57,3,3,Mobile,5,1,7,Yes,479,9,Yes
+818,51,Male,Chennai,39,Active,UPI,13,Yearly,Yes,11,25,37,9,4,26,14,11,Mobile,5,4,0,No,490,0,No
+819,31,Female,Ahmedabad,1,Active,UPI,5,Quarterly,No,132,58,21,19,10,10,29,18,Desktop,3,2,8,No,447,15,Yes
+820,45,Female,Pune,40,Cancelled,UPI,14,Quarterly,Yes,164,59,32,16,5,42,20,10,Mobile,1,4,8,Yes,143,2,No
+821,39,Male,Pune,32,Cancelled,Credit/Debit Card,8,Monthly,Yes,286,71,8,16,9,10,23,0,Mobile,2,5,6,No,226,0,No
+822,46,Male,Mumbai,60,Active,UPI,11,Yearly,Yes,244,34,29,14,2,30,32,1,Mobile,3,4,5,No,40,3,Yes
+823,41,Male,Hyderabad,26,Active,UPI,10,Quarterly,No,144,12,28,19,9,56,36,2,Desktop,4,1,12,No,305,1,Yes
+824,47,Male,Hyderabad,39,Cancelled,Net Banking,6,Monthly,No,147,29,16,12,9,54,14,6,Mobile,3,4,10,No,132,12,Yes
+825,30,Female,Mumbai,25,Cancelled,Credit/Debit Card,14,Monthly,No,204,24,7,10,6,53,13,4,Mobile,1,5,14,No,425,13,Yes
+826,55,Male,Mumbai,41,Active,UPI,6,Monthly,Yes,184,12,9,10,7,51,32,0,Mobile,2,5,7,Yes,16,3,Yes
+827,42,Male,Hyderabad,48,Cancelled,Net Banking,6,Yearly,No,42,62,33,14,8,57,29,28,Mobile,1,0,4,No,403,8,No
+828,34,Male,Bangalore,22,Active,UPI,10,Quarterly,No,38,26,35,1,2,54,31,9,Tablet,3,5,7,Yes,379,4,Yes
+829,47,Female,Hyderabad,20,Active,Credit/Debit Card,9,Monthly,No,132,43,31,11,3,58,33,30,Desktop,2,4,4,No,191,11,No
+830,51,Male,Pune,1,Cancelled,Credit/Debit Card,13,Yearly,No,160,38,14,7,9,54,44,15,Mobile,2,0,4,Yes,295,12,Yes
+831,34,Male,Ahmedabad,46,Active,Net Banking,4,Quarterly,No,59,29,17,0,3,35,19,18,Mobile,1,3,7,No,273,4,No
+832,35,Female,Mumbai,39,Active,UPI,2,Monthly,Yes,68,78,28,15,6,38,32,23,Desktop,5,5,5,Yes,52,12,No
+833,56,Male,Bangalore,15,Active,UPI,14,Monthly,No,171,11,27,16,5,22,7,29,Desktop,5,1,11,Yes,93,14,No
+834,18,Male,Bangalore,23,Cancelled,UPI,14,Monthly,No,178,16,25,4,2,28,7,2,Tablet,5,3,10,Yes,159,10,No
+835,24,Male,Chennai,32,Active,Credit/Debit Card,7,Yearly,No,281,19,35,13,7,19,23,29,Mobile,1,0,8,No,484,10,No
+836,30,Male,Mumbai,49,Active,UPI,10,Monthly,No,280,25,13,9,1,34,22,15,Tablet,5,1,2,Yes,166,11,No
+837,40,Female,Bangalore,37,Cancelled,Net Banking,8,Monthly,No,173,26,18,1,8,54,50,29,Tablet,5,1,8,Yes,436,8,Yes
+838,22,Female,Pune,55,Active,Credit/Debit Card,9,Quarterly,Yes,188,75,35,17,6,28,29,6,Tablet,3,2,15,Yes,376,12,No
+839,37,Female,Pune,2,Active,Credit/Debit Card,0,Monthly,Yes,243,15,20,7,0,49,21,27,Mobile,5,5,15,No,92,3,Yes
+840,52,Male,Pune,38,Active,UPI,9,Monthly,No,176,39,29,11,1,6,34,12,Tablet,4,2,3,No,358,7,Yes
+841,35,Female,Mumbai,27,Active,UPI,14,Yearly,No,104,36,24,6,4,41,28,23,Mobile,2,0,1,No,177,13,Yes
+842,52,Male,Hyderabad,55,Active,Net Banking,1,Yearly,No,157,22,6,17,7,14,43,20,Desktop,4,0,3,Yes,341,2,No
+843,37,Female,Bangalore,38,Active,UPI,7,Quarterly,Yes,55,45,3,19,9,31,11,17,Mobile,1,2,14,No,374,1,No
+844,22,Female,Hyderabad,28,Cancelled,Net Banking,14,Yearly,No,185,23,11,8,8,53,18,11,Desktop,1,0,0,No,140,5,No
+845,20,Male,Kolkata,8,Active,Net Banking,1,Monthly,No,38,38,14,8,3,23,29,16,Desktop,1,0,13,No,191,12,No
+846,37,Female,Pune,10,Cancelled,UPI,11,Monthly,No,186,62,8,20,8,17,44,7,Mobile,4,1,5,Yes,500,8,Yes
+847,60,Male,Chennai,44,Active,UPI,7,Yearly,Yes,201,28,11,0,7,7,19,23,Mobile,5,3,4,No,441,3,No
+848,38,Female,Chennai,20,Cancelled,Net Banking,11,Quarterly,No,171,67,34,3,5,9,33,23,Desktop,3,1,8,Yes,144,13,No
+849,42,Female,Kolkata,45,Active,UPI,5,Yearly,No,215,18,15,17,9,24,22,3,Mobile,5,5,7,No,407,11,Yes
+850,38,Male,Mumbai,24,Active,Credit/Debit Card,6,Quarterly,Yes,84,39,38,3,1,6,41,13,Desktop,2,0,13,Yes,483,8,Yes
+851,48,Male,Hyderabad,11,Active,UPI,15,Monthly,No,174,6,12,15,5,52,43,1,Desktop,3,4,13,Yes,457,10,Yes
+852,53,Male,Kolkata,31,Active,UPI,3,Monthly,Yes,270,60,4,0,10,37,44,19,Desktop,2,2,10,Yes,252,9,No
+853,31,Male,Kolkata,52,Active,UPI,11,Monthly,Yes,44,31,36,3,0,38,37,23,Mobile,4,5,7,No,466,4,Yes
+854,37,Female,Hyderabad,44,Active,UPI,9,Monthly,No,59,66,1,2,4,27,48,2,Tablet,2,0,11,Yes,52,2,Yes
+855,34,Female,Mumbai,59,Active,UPI,2,Monthly,No,173,10,36,0,4,41,11,12,Mobile,5,1,14,Yes,431,7,No
+856,57,Female,Kolkata,46,Active,Credit/Debit Card,5,Yearly,No,25,12,21,14,5,60,3,11,Tablet,5,1,10,Yes,203,11,Yes
+857,26,Female,Mumbai,58,Active,UPI,5,Monthly,No,147,45,38,16,8,49,2,4,Mobile,2,5,6,No,297,8,Yes
+858,40,Male,Bangalore,22,Active,UPI,11,Quarterly,Yes,89,61,11,9,0,42,29,26,Desktop,2,0,7,Yes,191,0,Yes
+859,40,Female,Bangalore,33,Cancelled,Credit/Debit Card,4,Monthly,No,174,5,9,4,5,58,18,1,Mobile,2,4,14,No,3,10,Yes
+860,44,Male,Bangalore,24,Active,Credit/Debit Card,14,Monthly,Yes,184,74,40,11,5,36,41,2,Mobile,5,3,9,No,278,15,No
+861,44,Male,Chennai,28,Active,Credit/Debit Card,14,Quarterly,No,144,20,38,1,3,24,21,28,Desktop,1,1,8,No,269,8,No
+862,37,Male,Pune,48,Active,Net Banking,0,Quarterly,Yes,18,6,22,4,3,27,15,21,Mobile,3,5,2,Yes,112,15,No
+863,26,Male,Pune,18,Active,Credit/Debit Card,1,Monthly,Yes,107,59,21,17,8,22,7,26,Mobile,2,4,7,Yes,58,3,No
+864,33,Male,Mumbai,37,Cancelled,UPI,8,Monthly,No,48,46,30,0,8,46,33,23,Mobile,4,4,1,No,23,3,No
+865,48,Male,Bangalore,50,Cancelled,UPI,0,Monthly,Yes,271,5,6,7,4,55,2,29,Desktop,2,1,15,No,493,3,Yes
+866,28,Male,Bangalore,46,Cancelled,Credit/Debit Card,8,Monthly,No,12,34,38,7,2,47,24,29,Mobile,3,1,7,Yes,321,15,No
+867,57,Female,Hyderabad,39,Active,UPI,15,Quarterly,Yes,154,21,9,7,7,30,19,16,Mobile,5,0,9,Yes,408,9,No
+868,37,Female,Hyderabad,32,Cancelled,Net Banking,6,Yearly,Yes,70,60,27,16,7,24,7,8,Mobile,2,4,5,No,182,12,No
+869,51,Female,Mumbai,24,Active,Net Banking,7,Quarterly,No,155,12,12,11,4,21,31,14,Desktop,5,2,14,No,107,2,No
+870,39,Female,Hyderabad,40,Active,UPI,15,Monthly,Yes,255,9,4,2,10,53,27,3,Mobile,1,5,12,No,54,13,Yes
+871,38,Female,Hyderabad,42,Cancelled,UPI,10,Yearly,No,76,56,25,0,10,34,33,2,Mobile,5,1,14,No,478,15,No
+872,59,Female,Chennai,9,Active,UPI,2,Monthly,Yes,118,35,23,14,10,53,11,13,Mobile,5,0,12,Yes,84,5,Yes
+873,30,Male,Chennai,24,Cancelled,UPI,3,Yearly,No,11,72,10,12,9,28,10,4,Mobile,4,3,15,Yes,310,13,No
+874,30,Female,Bangalore,6,Cancelled,Credit/Debit Card,5,Quarterly,Yes,54,70,1,19,8,27,50,16,Mobile,3,0,2,Yes,97,1,Yes
+875,26,Male,Chennai,8,Active,Credit/Debit Card,2,Monthly,No,94,14,38,2,3,11,48,26,Mobile,5,3,13,Yes,367,10,No
+876,19,Male,Mumbai,5,Active,Credit/Debit Card,11,Quarterly,No,88,68,26,3,3,52,19,17,Mobile,4,2,5,Yes,438,15,Yes
+877,34,Female,Kolkata,23,Active,UPI,15,Quarterly,No,139,70,40,16,2,46,11,15,Desktop,5,5,9,No,273,12,No
+878,25,Male,Kolkata,13,Active,Credit/Debit Card,2,Yearly,No,10,32,2,0,5,39,44,14,Mobile,1,2,8,No,125,15,Yes
+879,41,Male,Chennai,25,Active,Net Banking,6,Yearly,No,300,8,38,14,9,57,45,4,Desktop,1,5,12,No,401,1,Yes
+880,58,Male,Chennai,31,Active,Credit/Debit Card,2,Monthly,Yes,210,67,20,7,8,20,16,4,Mobile,2,3,2,Yes,29,6,Yes
+881,28,Male,Mumbai,48,Active,UPI,3,Yearly,Yes,268,51,13,9,0,5,50,21,Mobile,2,4,15,No,187,7,Yes
+882,42,Female,Bangalore,23,Cancelled,Credit/Debit Card,15,Monthly,No,289,38,28,7,8,48,40,24,Mobile,3,0,8,No,320,6,No
+883,60,Female,Bangalore,28,Cancelled,Net Banking,5,Monthly,Yes,58,18,22,14,0,48,49,5,Tablet,5,2,14,No,354,10,No
+884,39,Female,Bangalore,42,Active,UPI,2,Monthly,Yes,262,26,3,10,4,8,41,13,Desktop,4,3,14,Yes,155,2,Yes
+885,51,Female,Ahmedabad,56,Active,Credit/Debit Card,0,Quarterly,Yes,109,25,23,16,2,48,48,14,Mobile,1,0,9,Yes,283,5,No
+886,33,Female,Kolkata,47,Cancelled,Credit/Debit Card,12,Monthly,Yes,10,19,35,5,0,6,31,12,Desktop,2,0,7,No,57,3,No
+887,41,Male,Pune,3,Active,UPI,2,Monthly,No,201,21,36,2,4,52,35,6,Mobile,5,5,13,Yes,308,12,No
+888,52,Male,Ahmedabad,7,Cancelled,Net Banking,11,Monthly,Yes,38,10,1,19,4,54,25,27,Mobile,3,2,3,No,449,8,Yes
+889,32,Male,Ahmedabad,12,Active,Credit/Debit Card,0,Yearly,Yes,179,18,24,14,10,37,4,7,Desktop,2,2,10,Yes,149,15,Yes
+890,39,Male,Chennai,5,Cancelled,Credit/Debit Card,13,Monthly,No,239,41,26,20,8,29,27,18,Desktop,5,4,4,No,358,10,Yes
+891,27,Female,Hyderabad,26,Active,Credit/Debit Card,2,Monthly,Yes,24,11,23,7,4,25,15,1,Mobile,2,0,15,Yes,419,13,Yes
+892,42,Female,Hyderabad,46,Active,UPI,2,Monthly,Yes,221,50,9,12,10,50,15,1,Tablet,1,5,11,No,339,0,No
+893,37,Male,Chennai,9,Active,UPI,8,Yearly,Yes,5,43,7,4,2,25,17,26,Mobile,1,3,3,No,432,7,No
+894,35,Male,Pune,47,Cancelled,UPI,4,Quarterly,No,214,17,18,5,6,24,17,9,Tablet,3,2,2,Yes,349,15,Yes
+895,37,Female,Ahmedabad,22,Cancelled,Credit/Debit Card,5,Monthly,Yes,109,71,19,8,8,43,38,19,Desktop,2,4,10,No,355,1,No
+896,59,Male,Pune,6,Cancelled,UPI,6,Monthly,Yes,102,24,23,20,2,22,25,20,Mobile,3,4,13,Yes,295,4,Yes
+897,21,Male,Mumbai,11,Cancelled,Net Banking,15,Quarterly,No,240,74,25,3,9,17,2,17,Mobile,4,4,15,No,209,3,No
+898,21,Male,Mumbai,54,Active,Net Banking,6,Monthly,No,154,22,6,2,8,53,39,15,Desktop,2,3,14,Yes,89,14,No
+899,46,Female,Bangalore,47,Active,UPI,14,Monthly,No,15,52,8,4,6,12,13,21,Desktop,3,3,13,No,471,14,Yes
+900,46,Female,Ahmedabad,1,Active,UPI,9,Quarterly,Yes,20,80,19,19,0,15,35,12,Tablet,4,5,10,Yes,279,8,No
+901,55,Male,Pune,26,Active,UPI,13,Yearly,No,276,17,29,16,4,37,27,13,Tablet,4,1,12,No,499,1,No
+902,48,Female,Chennai,46,Cancelled,UPI,6,Monthly,No,97,28,1,9,7,39,5,22,Mobile,2,3,5,No,61,6,Yes
+903,49,Female,Hyderabad,42,Cancelled,Credit/Debit Card,12,Monthly,No,60,77,36,1,4,24,13,12,Mobile,2,5,0,Yes,302,8,No
+904,22,Female,Kolkata,4,Active,UPI,10,Yearly,No,34,55,23,5,3,19,21,8,Mobile,1,5,7,Yes,15,6,Yes
+905,51,Male,Kolkata,13,Active,UPI,3,Quarterly,No,112,59,37,3,6,10,44,4,Mobile,3,2,13,No,416,11,No
+906,23,Male,Kolkata,15,Active,Credit/Debit Card,8,Quarterly,Yes,35,14,12,19,1,21,20,20,Mobile,2,2,12,Yes,221,9,No
+907,60,Female,Hyderabad,6,Cancelled,UPI,15,Yearly,No,145,23,21,5,8,46,32,12,Mobile,4,0,6,Yes,178,9,No
+908,48,Male,Kolkata,29,Active,UPI,8,Monthly,Yes,102,35,34,10,2,46,25,6,Desktop,1,3,15,No,489,7,No
+909,46,Female,Bangalore,22,Active,UPI,6,Monthly,Yes,299,79,23,19,4,24,43,18,Mobile,4,0,13,Yes,44,6,Yes
+910,27,Female,Bangalore,56,Cancelled,UPI,1,Monthly,No,226,70,6,2,1,13,15,15,Desktop,1,3,12,Yes,0,1,No
+911,59,Male,Ahmedabad,38,Active,UPI,1,Quarterly,No,178,61,35,8,0,16,44,23,Mobile,2,5,11,No,363,10,Yes
+912,35,Male,Bangalore,24,Active,Net Banking,15,Yearly,No,8,40,3,19,0,24,31,0,Mobile,3,5,11,No,342,13,Yes
+913,30,Male,Ahmedabad,37,Active,UPI,13,Yearly,Yes,21,22,7,18,3,17,47,11,Mobile,4,0,8,No,335,1,Yes
+914,39,Female,Pune,58,Cancelled,UPI,9,Quarterly,No,36,23,16,4,9,5,17,26,Mobile,2,0,6,Yes,38,9,No
+915,28,Female,Hyderabad,41,Active,UPI,0,Monthly,No,103,6,24,10,2,23,42,11,Mobile,5,3,3,No,141,6,Yes
+916,25,Male,Bangalore,32,Active,UPI,12,Monthly,No,40,11,7,12,0,12,21,22,Desktop,2,5,2,Yes,448,9,No
+917,40,Male,Hyderabad,50,Active,Credit/Debit Card,9,Monthly,No,248,7,8,6,7,42,35,23,Mobile,1,1,15,No,442,2,Yes
+918,50,Female,Ahmedabad,29,Active,Credit/Debit Card,7,Monthly,Yes,194,70,33,19,7,14,9,11,Desktop,5,1,8,Yes,430,9,No
+919,31,Male,Pune,19,Cancelled,Net Banking,13,Monthly,No,105,74,34,11,4,54,37,11,Mobile,5,5,3,Yes,281,6,Yes
+920,50,Female,Pune,27,Active,Net Banking,4,Monthly,No,85,68,15,20,8,57,38,21,Tablet,2,5,5,Yes,210,14,Yes
+921,43,Female,Ahmedabad,2,Active,UPI,14,Monthly,Yes,292,72,26,8,0,10,21,29,Mobile,5,1,12,No,372,15,No
+922,20,Male,Ahmedabad,41,Active,Credit/Debit Card,12,Quarterly,Yes,88,70,26,4,5,42,32,0,Mobile,2,2,9,No,298,3,Yes
+923,38,Male,Pune,31,Active,UPI,0,Monthly,No,190,22,36,11,9,53,8,0,Mobile,1,2,15,Yes,466,14,Yes
+924,28,Female,Chennai,9,Active,Credit/Debit Card,8,Yearly,Yes,192,15,17,10,9,59,1,26,Desktop,1,5,0,Yes,275,12,No
+925,48,Male,Bangalore,32,Cancelled,UPI,2,Monthly,No,292,10,11,4,6,40,28,10,Mobile,1,5,13,Yes,348,10,Yes
+926,38,Female,Mumbai,57,Active,Credit/Debit Card,8,Quarterly,Yes,265,53,14,1,7,12,5,30,Mobile,2,4,14,Yes,179,10,No
+927,23,Female,Hyderabad,14,Active,UPI,1,Yearly,Yes,228,23,26,9,10,11,46,3,Mobile,5,3,7,No,235,15,No
+928,42,Male,Ahmedabad,24,Active,UPI,13,Quarterly,Yes,29,70,3,2,0,43,20,30,Mobile,4,1,10,Yes,26,15,No
+929,28,Male,Ahmedabad,49,Active,UPI,5,Quarterly,Yes,292,26,22,5,0,45,18,17,Mobile,2,4,9,Yes,34,15,No
+930,29,Male,Hyderabad,8,Active,Net Banking,3,Yearly,No,109,79,39,5,0,37,5,20,Mobile,5,1,8,Yes,319,11,Yes
+931,27,Male,Ahmedabad,58,Active,Net Banking,2,Monthly,Yes,20,10,9,8,6,33,13,8,Desktop,1,1,5,No,439,6,No
+932,23,Female,Pune,57,Active,UPI,11,Yearly,Yes,202,26,15,1,1,37,48,26,Tablet,5,2,6,No,133,5,Yes
+933,41,Male,Hyderabad,53,Cancelled,UPI,14,Monthly,Yes,251,79,17,0,5,44,36,4,Mobile,3,4,0,No,234,7,No
+934,32,Female,Chennai,16,Active,UPI,12,Monthly,Yes,292,49,37,16,1,40,0,17,Desktop,4,2,0,No,450,14,Yes
+935,23,Female,Ahmedabad,6,Active,UPI,5,Quarterly,No,44,13,22,6,9,46,16,7,Tablet,5,0,0,No,20,0,Yes
+936,44,Female,Pune,18,Cancelled,UPI,13,Yearly,Yes,216,42,28,8,9,54,9,27,Mobile,2,1,14,Yes,258,15,Yes
+937,35,Female,Bangalore,45,Active,UPI,5,Monthly,Yes,244,52,14,6,6,27,5,23,Mobile,3,1,14,Yes,49,9,Yes
+938,59,Female,Ahmedabad,36,Cancelled,Credit/Debit Card,2,Yearly,Yes,252,56,3,0,6,9,22,8,Mobile,4,3,8,Yes,353,12,Yes
+939,28,Female,Pune,44,Active,Credit/Debit Card,4,Yearly,No,262,33,12,14,7,43,38,26,Mobile,5,1,0,No,133,8,No
+940,47,Male,Ahmedabad,10,Active,UPI,10,Monthly,Yes,246,10,28,1,8,43,9,11,Mobile,5,5,14,No,205,4,No
+941,54,Male,Hyderabad,29,Active,UPI,2,Monthly,No,51,43,20,2,3,17,50,27,Mobile,4,3,4,Yes,243,9,Yes
+942,40,Male,Pune,38,Active,UPI,5,Monthly,Yes,217,28,14,15,3,38,46,29,Desktop,4,4,14,No,155,0,Yes
+943,32,Female,Kolkata,8,Active,Credit/Debit Card,15,Monthly,No,232,75,28,3,10,52,37,29,Mobile,1,1,5,No,417,6,No
+944,55,Female,Chennai,20,Cancelled,Credit/Debit Card,12,Yearly,Yes,226,59,16,7,1,57,4,28,Tablet,4,4,15,Yes,76,3,No
+945,56,Male,Bangalore,52,Active,Credit/Debit Card,0,Yearly,No,152,16,35,4,9,14,49,20,Desktop,4,1,9,Yes,468,6,Yes
+946,26,Male,Chennai,19,Active,UPI,14,Yearly,No,288,15,34,18,5,11,45,16,Desktop,2,5,11,Yes,417,9,Yes
+947,46,Female,Pune,6,Active,UPI,14,Monthly,No,30,70,39,2,1,43,26,29,Mobile,2,3,3,No,370,11,Yes
+948,22,Male,Bangalore,17,Active,Credit/Debit Card,11,Yearly,No,257,30,7,20,9,35,26,14,Desktop,5,0,1,No,299,0,Yes
+949,59,Female,Bangalore,49,Cancelled,UPI,12,Monthly,No,137,28,36,15,0,53,30,13,Mobile,4,4,14,No,197,2,No
+950,53,Male,Mumbai,19,Cancelled,Credit/Debit Card,4,Monthly,No,14,71,39,17,8,40,23,5,Desktop,2,2,5,Yes,265,3,No
+951,27,Female,Pune,18,Cancelled,UPI,9,Monthly,No,259,77,36,5,5,15,6,9,Mobile,2,1,15,No,471,8,Yes
+952,42,Male,Chennai,55,Active,UPI,7,Monthly,Yes,191,29,10,11,9,60,41,28,Mobile,1,5,4,No,344,10,Yes
+953,19,Male,Ahmedabad,30,Active,Credit/Debit Card,14,Monthly,Yes,244,33,31,6,6,7,33,24,Mobile,3,0,5,No,182,6,Yes
+954,39,Female,Ahmedabad,6,Active,Credit/Debit Card,9,Yearly,No,203,8,22,17,5,53,15,7,Tablet,4,0,2,Yes,489,11,Yes
+955,48,Female,Hyderabad,48,Active,Credit/Debit Card,9,Monthly,No,202,18,9,15,7,19,9,30,Mobile,5,0,1,No,159,2,No
+956,38,Male,Pune,54,Active,UPI,6,Yearly,Yes,188,23,7,10,4,51,13,16,Mobile,1,4,6,Yes,243,9,Yes
+957,48,Female,Bangalore,22,Active,Net Banking,3,Monthly,Yes,114,18,40,5,1,16,32,19,Desktop,4,4,11,Yes,361,15,Yes
+958,59,Female,Chennai,15,Active,UPI,14,Quarterly,Yes,43,23,7,14,9,12,50,2,Desktop,5,0,8,No,333,13,No
+959,19,Female,Kolkata,8,Cancelled,Credit/Debit Card,14,Quarterly,Yes,29,78,8,2,0,33,35,14,Mobile,2,0,15,No,188,15,No
+960,27,Male,Kolkata,33,Cancelled,Credit/Debit Card,2,Monthly,No,266,61,6,15,9,22,25,27,Mobile,5,3,9,Yes,356,4,No
+961,53,Male,Mumbai,9,Active,Credit/Debit Card,8,Yearly,No,242,45,4,13,9,48,32,12,Mobile,1,1,5,Yes,324,1,Yes
+962,51,Male,Chennai,53,Active,UPI,13,Yearly,Yes,86,50,27,5,0,28,37,30,Mobile,3,5,0,No,379,4,Yes
+963,29,Male,Mumbai,54,Active,UPI,1,Quarterly,Yes,133,10,23,2,8,26,49,7,Mobile,3,1,14,No,75,2,Yes
+964,41,Male,Mumbai,21,Cancelled,UPI,14,Monthly,Yes,53,18,25,15,10,51,33,30,Mobile,1,3,9,Yes,204,4,No
+965,18,Female,Mumbai,17,Cancelled,Credit/Debit Card,13,Monthly,No,23,77,8,20,8,53,5,0,Mobile,1,3,10,No,9,15,No
+966,20,Female,Hyderabad,55,Active,UPI,1,Quarterly,Yes,202,63,25,5,9,28,47,12,Mobile,3,1,6,Yes,410,11,Yes
+967,21,Female,Pune,47,Active,UPI,9,Monthly,No,165,16,18,7,8,23,31,28,Mobile,2,5,5,Yes,208,9,No
+968,18,Male,Chennai,10,Active,Net Banking,12,Quarterly,Yes,70,22,16,8,8,42,9,15,Tablet,3,5,11,No,118,1,Yes
+969,25,Male,Kolkata,20,Cancelled,UPI,0,Monthly,No,141,76,13,9,7,59,14,29,Mobile,4,2,2,Yes,330,7,Yes
+970,43,Male,Kolkata,19,Active,Credit/Debit Card,7,Yearly,No,181,12,4,16,1,56,20,17,Mobile,1,5,14,Yes,409,3,Yes
+971,32,Male,Bangalore,14,Active,Credit/Debit Card,13,Monthly,Yes,222,44,9,3,7,37,37,4,Mobile,5,4,5,No,193,4,No
+972,35,Female,Bangalore,19,Active,Credit/Debit Card,0,Quarterly,Yes,169,48,9,16,0,5,35,3,Desktop,3,1,3,No,92,1,No
+973,36,Male,Bangalore,37,Active,Credit/Debit Card,2,Quarterly,Yes,69,45,16,6,4,58,23,17,Mobile,3,4,15,Yes,275,11,Yes
+974,43,Female,Kolkata,44,Active,UPI,14,Yearly,Yes,292,70,25,16,0,55,26,27,Mobile,1,4,13,No,497,3,No
+975,18,Male,Kolkata,47,Active,UPI,7,Monthly,Yes,178,70,12,15,0,14,42,1,Mobile,3,5,14,Yes,395,9,No
+976,56,Female,Hyderabad,27,Active,UPI,13,Monthly,Yes,245,10,17,14,9,60,34,9,Mobile,1,1,1,No,462,7,No
+977,37,Male,Mumbai,35,Active,UPI,12,Yearly,Yes,112,70,8,4,4,36,18,29,Mobile,1,4,15,Yes,212,15,No
+978,19,Female,Pune,31,Active,Net Banking,6,Quarterly,No,278,80,29,1,9,6,8,22,Desktop,3,5,10,Yes,448,7,No
+979,25,Male,Chennai,4,Active,Net Banking,13,Monthly,No,70,71,28,2,7,20,48,10,Mobile,3,0,0,No,295,7,No
+980,54,Female,Chennai,15,Active,Credit/Debit Card,4,Quarterly,Yes,230,21,25,14,9,9,38,20,Desktop,2,0,10,No,281,1,No
+981,30,Male,Kolkata,60,Active,UPI,6,Monthly,Yes,118,69,21,4,3,46,22,14,Desktop,1,1,12,Yes,112,15,No
+982,25,Female,Mumbai,14,Active,UPI,3,Monthly,Yes,133,23,12,4,9,56,16,30,Desktop,4,4,0,No,227,5,No
+983,27,Male,Bangalore,54,Active,UPI,15,Quarterly,No,10,53,27,18,7,55,45,20,Mobile,2,5,11,No,199,4,No
+984,48,Female,Ahmedabad,25,Active,Credit/Debit Card,12,Quarterly,No,197,63,13,6,6,24,2,8,Mobile,2,4,12,No,493,10,Yes
+985,24,Female,Ahmedabad,47,Active,Net Banking,12,Monthly,No,216,55,13,4,2,49,6,29,Desktop,2,4,1,Yes,17,7,Yes
+986,36,Female,Bangalore,44,Active,Credit/Debit Card,11,Monthly,Yes,161,51,27,16,3,5,0,9,Mobile,5,1,5,No,45,12,No
+987,53,Female,Kolkata,14,Active,UPI,8,Yearly,Yes,145,62,16,11,10,46,19,21,Mobile,3,5,3,No,462,3,No
+988,31,Male,Chennai,14,Active,UPI,10,Yearly,No,228,59,1,15,5,43,33,22,Mobile,1,3,3,Yes,432,8,No
+989,34,Female,Hyderabad,3,Active,UPI,1,Monthly,Yes,28,6,35,7,6,37,11,29,Mobile,4,1,15,No,467,15,No
+990,44,Male,Chennai,34,Active,UPI,9,Monthly,Yes,105,39,12,19,9,25,3,23,Mobile,4,3,11,No,399,0,Yes
+991,45,Male,Mumbai,36,Cancelled,Net Banking,5,Yearly,No,245,69,9,10,9,35,25,0,Mobile,3,0,15,No,194,14,No
+992,32,Male,Ahmedabad,20,Cancelled,Credit/Debit Card,11,Yearly,Yes,95,38,40,8,6,24,43,6,Desktop,4,3,7,No,174,5,No
+993,36,Female,Mumbai,17,Active,UPI,7,Monthly,Yes,243,61,40,12,8,38,21,14,Tablet,2,5,15,No,239,7,Yes
+994,60,Male,Hyderabad,13,Active,Net Banking,1,Quarterly,Yes,19,47,21,8,6,36,2,3,Desktop,3,2,15,No,77,14,No
+995,33,Female,Pune,29,Active,Credit/Debit Card,6,Quarterly,No,77,60,18,10,10,49,4,10,Mobile,3,5,7,Yes,25,4,No
+996,31,Female,Bangalore,52,Cancelled,UPI,15,Monthly,Yes,227,69,14,5,5,57,29,9,Desktop,4,3,10,Yes,239,4,No
+997,31,Male,Ahmedabad,25,Active,Net Banking,5,Monthly,No,235,60,4,10,8,16,43,15,Tablet,1,2,2,No,306,10,No
+998,40,Female,Bangalore,5,Active,Credit/Debit Card,13,Yearly,No,211,10,34,6,4,16,22,24,Mobile,3,2,8,Yes,147,4,No
+999,54,Female,Bangalore,59,Active,Credit/Debit Card,14,Monthly,No,292,31,36,6,1,52,23,5,Desktop,5,5,15,Yes,450,6,Yes
+1000,21,Male,Kolkata,58,Active,UPI,10,Yearly,No,220,54,29,19,3,5,44,3,Mobile,5,1,7,Yes,217,6,Yes
