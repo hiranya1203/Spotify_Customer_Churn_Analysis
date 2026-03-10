@@ -39,7 +39,7 @@ Approximately 50% of the platform's potential revenue is lost due to churn.
 3. Target on middle aged users and tablet users.
 4. Improve mid-term retention by providing exclusive content or loyalty rewards or ai-driven music recommendations.
 # Dashboard
-![Dashboard Screenshort] (Spotify_Churn_Dashboard.png) 
+![Dashboard Screenshort](Spotify_Churn_Dashboard.png) 
 # Author
 P. Hiranya
 MBA(Finance & Business Analytics)
